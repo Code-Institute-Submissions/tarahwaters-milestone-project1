@@ -128,6 +128,14 @@ I designed a new logo to also match with the themes (will choose one).
 
 ### Typography
 
+[fontjoy.com](https://fontjoy.com/) was used to create aesthetic font pairings for the webpage.
+
+- **Alegreya Sans SC**
+- **Raleway**
+- **Hind Madurai**
+- with a backup font of **"Sans serif"**
+
+![Font pairings](/documentation/readme/summit-typography1.png "Font pairings")
 
 
 
