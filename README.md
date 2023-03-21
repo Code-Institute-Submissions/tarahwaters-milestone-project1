@@ -183,6 +183,9 @@ I designed a new logo to also match with the themes (will choose one).
 ## Credits:
 
 ### Content
+
+navbar - from [codepen.io](https://codepen.io/johndoenma/pen/VXpaVM) Simple Header with Inline Image Logo and HTML Text
+
 ### Media Content
 
 - Photos used on the webpage came from [https://unsplash.com](https://unsplash.com/)
