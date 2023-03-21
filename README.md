@@ -154,6 +154,10 @@ I designed a new logo to also match with the themes (will choose one).
 
 ## Technologies Used:
 
+- **HTML5**
+- **CSS**
+- **Bootstrap**
+
 
 ---
 
@@ -180,6 +184,11 @@ I designed a new logo to also match with the themes (will choose one).
 
 ### Content
 ### Media Content
+
+- Photos used on the webpage came from [https://unsplash.com](https://unsplash.com/)
+- Icons used came from [https://fontawesome.com/](https://fontawesome.com/)
+- Wireframes were created using [Balsamiq](https://balsamiq.com/) software
+
 ### Acknowledgements
 ### References
 - [Toto Kotaro Tanaka - former CI Student github repository](https://github.com/Toto-Kotaro-Tanaka/ms1-school-of-english)
