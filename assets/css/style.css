@@ -5,21 +5,17 @@
     margin: 0;
   }
 
+/*navbar*/
+
   .navbar-brand {
     font-family: 'Alegreya Sans SC', sans-serif;
   }
 
- 
-  
-  .social-networks {
-    text-align: center;
+  .navbar {
+    background-color: #F1FAEE;
   }
   
-  .social-networks li {
-    display: inline;
-  }
-
- /* -------------------------------------------------- Footer*/
+ /*footer*/
   
   footer {
   height: 150px;
@@ -35,7 +31,13 @@
     color: #000;
   }
 
+  .social-networks {
+    text-align: center;
+  }
   
+  .social-networks li {
+    display: inline;
+  }
   .social-networks i {
     font-size: 150%;
     margin: 13% auto;
