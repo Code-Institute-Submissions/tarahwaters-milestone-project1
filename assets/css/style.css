@@ -1,54 +1,16 @@
   @import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@800;900&family=Hind+Madurai:wght@300;400;500;600;700&family=Raleway:ital,wght@0,700;0,800;1,700;1,800&display=swap');
 
   body {
-    font-family: font-family: 'Hind Madurai', sans-serif;
+    font-family: 'Hind Madurai', sans-serif;
     margin: 0;
   }
 
-  a {
-    text-decoration: none;
-    color: #000;
+  .navbar-brand {
+    font-family: 'Alegreya Sans SC', sans-serif;
   }
 
-  .site-header { 
-    background-color: #fff;
-    border-bottom: 1px solid #ccc;
-    padding: .5em 1em;
-  }
-  
-  .site-header::after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-  
-  .site-identity {
-    float: left;
-  }
-  
-  .site-identity h1 {
-    font-family:'Alegreya Sans SC', sans-serif;
-    font-size: 2em;
-    margin: .3em 0 .3em 0;
-    display: inline-block;
-  }
-  
-  .site-identity img {
-    max-width: 55px;
-    float: left;
-    margin: 10px;
-  }
-  
-  .site-navigation {
-    float: right;
-  }
-  
-  .site-navigation ul, li {
-    margin: 0; 
-    padding: 0;
-  }
-  
-  .site-navigation li {
-    display: inline-block;
-    margin: 1.4em 1em 1em 1em;
+  .navbar-nav {
+    font-family: 'Hind Madurai', sans-serif;
+    font-weight: 400;
+    color: black;
   }
