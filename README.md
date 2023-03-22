@@ -184,7 +184,9 @@ I designed a new logo to also match with the themes (will choose one).
 
 ### Content
 
-navbar - from [codepen.io](https://codepen.io/johndoenma/pen/VXpaVM) Simple Header with Inline Image Logo and HTML Text
+Navbar from [Bootstrap](https://getbootstrap.com/docs/5.0/components/navbar/#responsive-behaviors) - adjusted bg color and added brand/logo with homepage link @Nathan Parry_4P_cohort_lead and @Paul Treggiden helped fix issues with styling
+
+Footer - used code from CI Love Running tutorial, then adapted styling for page and used bootstrap columns to separate text and social links
 
 ### Media Content
 
@@ -201,3 +203,4 @@ navbar - from [codepen.io](https://codepen.io/johndoenma/pen/VXpaVM) Simple Head
 - [@Nathan Parry_4P_cohort_lead](https://app.slack.com/client/T0L30B202/D04ULFN551P/rimeto_profile/U04EX23NTND) general support and encouragement, help with README.md structure, ideas and useful websites  
 - [Stephen Seagrave](https://github.com/nemixu) - former CI student and tutor. MS1 guidance and access to Stephen's Milestone1 repo which was useful for inpsiration and structure when planning
 - [Iris Smok](https://ie.linkedin.com/in/irissmok) - Cohort facilitator
+- First tried a navbar - from [codepen.io](https://codepen.io/johndoenma/pen/VXpaVM) Simple Header with Inline Image Logo and HTML Text
