@@ -26,7 +26,8 @@
   .carousel .img-crop-div {
     position: relative;
     width: 100%;
-    overflow-y: hidden;
+    height:min-content;
+    overflow: hidden;
   }
   
  /*footer*/

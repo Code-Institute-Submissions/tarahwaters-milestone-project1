@@ -190,6 +190,7 @@ Footer - used code from CI Love Running tutorial, then adapted styling for page 
 
 Hero image carousel from [BS](https://getbootstrap.com/docs/4.0/components/carousel/#with-indicators)
 Help with carousel slides not working - [ByteGrad on YouTube](https://www.youtube.com/watch?v=mPZLxhgTKCU)
+Suggestions on how to crop height of carousel heroimage3.jpg after successfully targeting in CSS - [linuxhint](https://linuxhint.com/how-to-crop-an-image-using-css/)
 
 ### Media Content
 
