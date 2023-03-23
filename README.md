@@ -192,6 +192,8 @@ Hero image carousel from [BS](https://getbootstrap.com/docs/4.0/components/carou
 Help with carousel slides not working - [ByteGrad on YouTube](https://www.youtube.com/watch?v=mPZLxhgTKCU)
 Suggestions on how to crop height of carousel heroimage3.jpg after successfully targeting in CSS - [linuxhint](https://linuxhint.com/how-to-crop-an-image-using-css/)
 
+Cover-text for hero image - initial code from CI Love Running tutorial, adapted for personal styling
+
 ### Media Content
 
 - Photos used on the webpage came from [https://unsplash.com](https://unsplash.com/)
