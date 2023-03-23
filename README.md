@@ -184,9 +184,12 @@ I designed a new logo to also match with the themes (will choose one).
 
 ### Content
 
-Navbar from [Bootstrap](https://getbootstrap.com/docs/5.0/components/navbar/#responsive-behaviors) - adjusted bg color and added brand/logo with homepage link @Nathan Parry_4P_cohort_lead and @Paul Treggiden helped fix issues with styling
+Navbar from [Bootstrap or BS](https://getbootstrap.com/docs/5.0/components/navbar/#responsive-behaviors) - adjusted bg color and added brand/logo with homepage link @Nathan Parry_4P_cohort_lead and @Paul Treggiden helped fix issues with styling
 
 Footer - used code from CI Love Running tutorial, then adapted styling for page and used bootstrap columns to separate text and social links
+
+Hero image carousel from [BS](https://getbootstrap.com/docs/4.0/components/carousel/#with-indicators)
+Help with carousel slides not working - [ByteGrad on YouTube](https://www.youtube.com/watch?v=mPZLxhgTKCU)
 
 ### Media Content
 
