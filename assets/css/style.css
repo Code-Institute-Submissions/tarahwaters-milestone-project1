@@ -18,10 +18,14 @@
   /*hero carousel*/
 
   .carousel img {
-    height: auto;
+    height: 100%;
     width: 100%;
     overflow: hidden;
-    position: relative;
+  }
+
+  .carousel .img-crop-div {
+    object-fit: cover;
+    margin: -59px 0 0 0;
   }
   
  /*footer*/
