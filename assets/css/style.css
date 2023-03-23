@@ -28,6 +28,30 @@
     width: 100%;
     overflow-y: hidden;
   }
+
+  #cover-text, #cover-text h2 {
+    color: #FF715B;
+    font-size: 16px;
+  }
+  
+  #cover-text {
+    font-family: 'Alegreya Sans SC', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+  
+    width: 220px;
+    height: 110px;
+  
+    padding-top: 10px;
+    padding-left: 10px;
+  
+    background-color: rgba(29, 53, 124, 0.7);
+  
+    bottom: 310px;
+    left: 20px;
+  
+    position: relative;
+  }
   
  /*footer*/
   
