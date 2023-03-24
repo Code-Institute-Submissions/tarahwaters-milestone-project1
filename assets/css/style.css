@@ -5,8 +5,12 @@
     margin: 0;
   }
 
-  h1, h2 {
+  h1, h2, h3 {
     font-family: 'Alegreya Sans SC', sans-serif;
+  }
+
+  h4 {
+    font-family: 'Raleway', sans-serif;
   }
 
 /*navbar*/
@@ -98,12 +102,12 @@
     padding-top: 30px;
     width: 50%;
     float: left;
-    background-color: blue;
+    background-color: #FF715B;
   }
 
   #right-about-img {
     padding-top: 30px;
     width: 50%;
     float: right;
-    background-color: green;
+    background-color: #1ea896;
   }
