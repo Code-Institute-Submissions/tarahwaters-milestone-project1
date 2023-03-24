@@ -193,7 +193,8 @@ I designed a new logo to also match with the themes (will choose one).
 - Suggestions on how to crop height of carousel heroimage3.jpg after successfully targeting in CSS - [linuxhint](https://linuxhint.com/how-to-crop-an-image-using-css/)
 Tutor support to fix hero image alignment problem - @Paul Treggiden identified that the problem was that the image aspect ratio was different to the others (using an aspect ratio calculator), and helped me adjust my image to a 3x2 ratio that now works well.
 
-**Cover-text** for hero image - initial code from CI Love Running tutorial, adapted for personal styling
+**Cover-text / hero image text overlay** for hero image - initial code from CI Love Running tutorial, adapted for personal styling
+- Additional help sought from [stackoverlow](https://stackoverflow.com/questions/62550170/how-to-customize-the-bootstrap-carousel-to-have-some-text-static-and-some-chang) to add text within BS image carousel (since initial styling and responsiveness with a separate text overlay seemed too complicated)
 
 ### Media Content
 
