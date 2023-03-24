@@ -83,3 +83,23 @@
     padding: 5%;
     color: #FF715B;
   }
+
+  /*homepage company summary*/
+
+  #company-summary {
+    height: 600px;
+  }
+
+  #about {
+    padding-top: 30px;
+    width: 50%;
+    float: left;
+    background-color: blue;
+  }
+
+  #about-img {
+    padding-top: 30px;
+    width: 50%;
+    float: left;
+    background-color: green;
+  }
