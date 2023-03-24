@@ -36,12 +36,6 @@
     overflow: hidden;
   }
 
-  .carousel .img-crop-div {
-    position: relative;
-    width: 100%;
-    overflow-y: hidden;
-  }
-
   /*#cover-text, #cover-text h2 {
     color: #FF715B;
     font-size: 14px;
