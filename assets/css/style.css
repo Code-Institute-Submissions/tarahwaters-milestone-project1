@@ -30,12 +30,6 @@
     margin-left: 1rem;
   }
 
-  .carousel img {
-    height: 100%;
-    width: 100%;
-    overflow: hidden;
-  }
-
   /*#cover-text, #cover-text h2 {
     color: #FF715B;
     font-size: 14px;
