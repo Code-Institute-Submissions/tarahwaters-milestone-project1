@@ -98,11 +98,17 @@
     text-align: center;
   }
 
+  #company-summary hr {
+    border: 5px dashed #1ea896;
+    width: 70%;
+    margin: 5px 50px;
+  }
+
   #left-about {
     padding-top: 30px;
     width: 50%;
     float: left;
-    background-color: #FF715B;
+    background-color: #F1FAEE;
   }
 
   #right-about {
@@ -111,3 +117,5 @@
     float: right;
     background-color: #1ea896;
   }
+
+ 
