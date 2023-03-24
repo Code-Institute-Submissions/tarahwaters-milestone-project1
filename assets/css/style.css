@@ -98,6 +98,11 @@
     text-align: center;
   }
 
+  #company-summary h1,h2,h3 {
+    text-transform: uppercase;
+    letter-spacing: 5px;
+  }
+
   #company-summary hr {
     border: 5px dashed #1ea896;
     width: 70%;
