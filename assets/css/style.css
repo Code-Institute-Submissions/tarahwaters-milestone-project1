@@ -96,9 +96,15 @@
   #company-summary {
     height: 600px;
     text-align: center;
+    padding-top: 50px;
   }
 
-  #company-summary h1,h2,h3 {
+  #company-summary h1 {
+    letter-spacing: 5px;
+    padding-bottom: 50px;
+  }
+
+  #company-summary h2,h3 {
     text-transform: uppercase;
     letter-spacing: 5px;
   }
