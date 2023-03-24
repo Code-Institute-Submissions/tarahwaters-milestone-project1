@@ -184,15 +184,16 @@ I designed a new logo to also match with the themes (will choose one).
 
 ### Content
 
-Navbar from [Bootstrap or BS](https://getbootstrap.com/docs/5.0/components/navbar/#responsive-behaviors) - adjusted bg color and added brand/logo with homepage link @Nathan Parry_4P_cohort_lead and @Paul Treggiden helped fix issues with styling
+**Navbar** from [Bootstrap or BS](https://getbootstrap.com/docs/5.0/components/navbar/#responsive-behaviors) - adjusted bg color and added brand/logo with homepage link @Nathan Parry_4P_cohort_lead and @Paul Treggiden helped fix issues with styling
 
-Footer - used code from CI Love Running tutorial, then adapted styling for page and used bootstrap columns to separate text and social links
+**Footer** - used code from CI Love Running tutorial, then adapted styling for page and used bootstrap columns to separate text and social links
 
-Hero image carousel from [BS](https://getbootstrap.com/docs/4.0/components/carousel/#with-indicators)
-Help with carousel slides not working - [ByteGrad on YouTube](https://www.youtube.com/watch?v=mPZLxhgTKCU)
-Suggestions on how to crop height of carousel heroimage3.jpg after successfully targeting in CSS - [linuxhint](https://linuxhint.com/how-to-crop-an-image-using-css/)
+**Hero image carousel** from [BS](https://getbootstrap.com/docs/4.0/components/carousel/#with-indicators)
+- Help with carousel slides initially not showing up - [ByteGrad on YouTube](https://www.youtube.com/watch?v=mPZLxhgTKCU)
+- Suggestions on how to crop height of carousel heroimage3.jpg after successfully targeting in CSS - [linuxhint](https://linuxhint.com/how-to-crop-an-image-using-css/)
+Tutor support to fix hero image alignment problem - @Paul Treggiden identified that the problem was that the image aspect ratio was different to the others (using an aspect ratio calculator), and helped me adjust my image to a 3x2 ratio that now works well.
 
-Cover-text for hero image - initial code from CI Love Running tutorial, adapted for personal styling
+**Cover-text** for hero image - initial code from CI Love Running tutorial, adapted for personal styling
 
 ### Media Content
 
