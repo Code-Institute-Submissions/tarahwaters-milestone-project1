@@ -131,4 +131,9 @@
     background-color: #1ea896;
   }
 
+  #right-about-img img {
+    width: 100%;
+    object-fit: cover;
+  }
+
  
