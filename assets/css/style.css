@@ -94,14 +94,14 @@
     text-align: center;
   }
 
-  #about {
+  #left-about {
     padding-top: 30px;
     width: 50%;
     float: left;
     background-color: blue;
   }
 
-  #about-img {
+  #right-about-img {
     padding-top: 30px;
     width: 50%;
     float: right;
