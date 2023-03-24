@@ -31,7 +31,7 @@
 
   #cover-text, #cover-text h2 {
     color: #FF715B;
-    font-size: 16px;
+    font-size: 14px;
   }
   
   #cover-text {
@@ -39,16 +39,16 @@
     text-transform: uppercase;
     letter-spacing: 5px;
   
-    width: 220px;
-    height: 110px;
+    width: 180px;
+    height: 100px;
   
     padding-top: 10px;
     padding-left: 10px;
   
     background-color: rgba(29, 53, 124, 0.7);
   
-    bottom: 310px;
-    left: 20px;
+    bottom: 240px;
+    left: 11px;
   
     position: relative;
   }
