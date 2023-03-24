@@ -17,6 +17,19 @@
 
   /*hero carousel*/
 
+  .carousel h2 {
+    font-family: 'Alegreya Sans SC', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #FF715B;
+    font-size: 0.9rem;
+    width: 50%;
+    position: absolute;
+    z-index: 3;
+    margin-top: 1rem;
+    margin-left: 1rem;
+  }
+
   .carousel img {
     height: 100%;
     width: 100%;
@@ -29,7 +42,7 @@
     overflow-y: hidden;
   }
 
-  #cover-text, #cover-text h2 {
+  /*#cover-text, #cover-text h2 {
     color: #FF715B;
     font-size: 14px;
   }
@@ -51,7 +64,7 @@
     left: 11px;
   
     position: relative;
-  }
+  }*/
   
  /*footer*/
   
