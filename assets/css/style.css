@@ -96,12 +96,14 @@
   #company-summary {
     height: 600px;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 0px;
   }
 
   #company-summary h1 {
     letter-spacing: 5px;
+    padding-top: 50px;
     padding-bottom: 50px;
+    background-color: #FF715B;
   }
 
   #company-summary h2,h3 {
