@@ -68,14 +68,21 @@
     height: 600px;
     text-align: center;
     padding-top: 0px;
+    flex-wrap: wrap;
+    /* display: flex; */
     
   }
+  /* #company-summary div:company-summary-heading {flex-grow: 2;} */
+  /* #company-summary div:left-about {flex-grow: 1;}
+  #company-summary div:right-about {flex-grow: 1;} */
+
 
   #company-summary-heading {
     letter-spacing: 5px;
     padding-top: 50px;
     padding-bottom: 50px;
     background-color: #FF715B;
+    /* flex-grow: 4; */
   }
 
   #company-summary h2,h3 {
@@ -93,8 +100,8 @@
     padding: 0px;
     height: 100%;
     width: 50%;
-    float: left;
-    height: min-content;
+    /* float: left; */
+    /* flex-grow: 1; */
   }
 
   #left-about-heading {
@@ -110,19 +117,20 @@
 
   #right-about {
     width: 50%;
-    float: right;
-    background-color: #1ea896;
+    /* float: right; */
+    /* flex-grow: 1; */
   }
 
   #right-about-img img {
     width: 100%;
+    /*object-fit: cover;*/
   }
 
   /*review section homepage*/
 
   #reviews {
     height: 600px;
-    background-color: #FF715B;
+    background-color: #1ea896;
   }
 
   /*contact form*/
@@ -180,7 +188,7 @@
   #left-about, #right-about, #right-about-img {
     width: 100%;
     clear: both;
-    float: left;
+    /* float: left; */
     padding: 0;
   }
   
