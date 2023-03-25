@@ -91,7 +91,7 @@
     color: #FF715B;
   }
 
-  /*homepage company summary*/
+  /*Company Summary*/
 
   #company-summary {
     height: 700px;
@@ -100,7 +100,7 @@
     border: 5px solid #1ea896;
   }
 
-  #company-summary h1 {
+  #company-summary-heading {
     letter-spacing: 5px;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -119,15 +119,16 @@
   }
 
   #left-about {
-    padding: 30px;
-    height: 500px;
+    padding: 0px;
+    height: 100%;
     width: 50%;
     float: left;
-    background-color: #F1FAEE;
   }
 
   #left-about-heading {
-    height: 500px;
+    width: 100%;
+    line-height: 30px;
+    background-color: #F1FAEE;
   }
 
   #right-about {
@@ -137,7 +138,9 @@
   }
 
   #right-about-img img {
-    width: 100%;   
+    width: 100%;
   }
+
+
 
  
