@@ -61,39 +61,7 @@
     position: relative;
   }*/
   
- /*footer*/
-  
-  footer {
-  height: 150px;
-  background-color: #F1FAEE;
-  }
- 
- .footer-about {
-    font-size: 150%;
-    font-family: 'Alegreya Sans SC', sans-serif;
-    text-align: left;
-    margin: auto;
-    padding: 5%;
-    color: #000;
-    float: left;
-  }
-
-  .social-networks {
-    text-align: right;
-  }
-  
-  .social-networks li {
-    display: inline;
-  }
-  .social-networks i {
-    font-size: 150%;
-    float: right;
-    margin: 30px auto;
-    padding: 5%;
-    color: #FF715B;
-  }
-
-  /*company summary*/
+   /*company summary*/
 
   #company-summary {
     height: 600px;
@@ -153,7 +121,45 @@
 
   #reviews {
     height: 600px;
+    background-color: #FF715B;
   }
+
+  /*contact form*/
+
+  #contact-form {
+    height: 600px;
+    background-color: #1ea896;
+  }
+
+  /*footer*/
+  
+  footer {
+    height: 150px;
+    background-color: #F1FAEE;
+    }
+   
+   .footer-about {
+      font-size: 150%;
+      font-family: 'Alegreya Sans SC', sans-serif;
+      text-align: left;
+      margin: auto;
+      padding: 5%;
+      color: #000;
+    }
+  
+    .social-networks {
+      text-align: right;
+    }
+    
+    .social-networks li {
+      display: inline;
+    }
+    .social-networks i {
+      font-size: 150%;
+      margin: 30px auto;
+      padding: 5%;
+      color: #FF715B;
+    }
 
   /*media queries*/
 
@@ -179,8 +185,6 @@
   
 hr {
   display: none;
-}
-
 }
 
 
