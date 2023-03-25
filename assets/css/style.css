@@ -133,6 +133,10 @@
     padding: 20px;
   }
 
+  #left-about-heading h4 {
+    padding: 10px;
+  }
+
   #right-about {
     width: 50%;
     float: right;
