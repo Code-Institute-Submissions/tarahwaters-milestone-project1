@@ -94,9 +94,10 @@
   /*homepage company summary*/
 
   #company-summary {
-    height: 600px;
+    height: 700px;
     text-align: center;
     padding-top: 0px;
+    border: 5px solid #1ea896;
   }
 
   #company-summary h1 {
@@ -118,22 +119,20 @@
   }
 
   #left-about {
-    padding-top: 30px;
+    padding: 30px;
     width: 50%;
     float: left;
     background-color: #F1FAEE;
   }
 
   #right-about {
-    padding-top: 30px;
     width: 50%;
     float: right;
     background-color: #1ea896;
   }
 
   #right-about-img img {
-    width: 100%;
-    object-fit: cover;
+    width: 100%;   
   }
 
  
