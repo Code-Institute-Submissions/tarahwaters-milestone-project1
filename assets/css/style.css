@@ -78,7 +78,7 @@
   }
 
   .social-networks {
-    text-align: center;
+    text-align: right;
   }
   
   .social-networks li {
@@ -145,6 +145,12 @@
 
   #right-about-img img {
     width: 100%;
+  }
+
+  /*review section homepage*/
+
+  #reviews {
+    height: 600px;
   }
 
   /*media queries*/
