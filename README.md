@@ -198,6 +198,8 @@ Tutor support to fix hero image alignment problem - @Paul Treggiden identified t
 
 **Company-summary** - adapted code from 'club-ethos' section of CI Love Running tutorial to have a header with two columns underneath (for large screens), along with media query to help make the page responsive (e.g. collapsing to a single column)
 
+**Bootstrap buttons** - from [BS](https://getbootstrap.com/docs/5.3/components/buttons/)
+
 ### Media Content
 
 - Photos used on the webpage came from [https://unsplash.com](https://unsplash.com/)
