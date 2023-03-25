@@ -120,9 +120,14 @@
 
   #left-about {
     padding: 30px;
+    height: 500px;
     width: 50%;
     float: left;
     background-color: #F1FAEE;
+  }
+
+  #left-about-heading {
+    height: 500px;
   }
 
   #right-about {
