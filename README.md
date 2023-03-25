@@ -186,7 +186,7 @@ I designed a new logo to also match with the themes (will choose one).
 
 **Navbar** from [Bootstrap or BS](https://getbootstrap.com/docs/5.0/components/navbar/#responsive-behaviors) - adjusted bg color and added brand/logo with homepage link @Nathan Parry_4P_cohort_lead and @Paul Treggiden helped fix issues with styling
 
-**Footer** - used code from CI Love Running tutorial, then adapted styling for page and used bootstrap columns to separate text and social links
+**Footer** - used code from Code Institute (CI) Love Running tutorial, then adapted styling for page and used bootstrap columns to separate text and social links
 
 **Hero image carousel** from [BS](https://getbootstrap.com/docs/4.0/components/carousel/#with-indicators)
 - Help with carousel slides initially not showing up - [ByteGrad on YouTube](https://www.youtube.com/watch?v=mPZLxhgTKCU)
@@ -195,6 +195,8 @@ Tutor support to fix hero image alignment problem - @Paul Treggiden identified t
 
 **Cover-text / hero image text overlay** for hero image - initial code from CI Love Running tutorial, adapted for personal styling
 - Additional help sought from [stackoverlow](https://stackoverflow.com/questions/62550170/how-to-customize-the-bootstrap-carousel-to-have-some-text-static-and-some-chang) to add text within BS image carousel (since initial styling and responsiveness with a separate text overlay seemed too complicated)
+
+**Company-summary** - adapted code from 'club-ethos' section of CI Love Running tutorial to have a header with two columns underneath (for large screens), along with media query to help make the page responsive (e.g. collapsing to a single column)
 
 ### Media Content
 
