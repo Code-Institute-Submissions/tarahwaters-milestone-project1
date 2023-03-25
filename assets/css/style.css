@@ -94,10 +94,10 @@
   /*Company Summary*/
 
   #company-summary {
-    height: 700px;
+    height: 600px;
     text-align: center;
     padding-top: 0px;
-    border: 5px solid #1ea896;
+    
   }
 
   #company-summary-heading {
@@ -123,6 +123,7 @@
     height: 100%;
     width: 50%;
     float: left;
+    height: min-content;
   }
 
   #left-about-heading {
@@ -142,6 +143,33 @@
     width: 100%;
   }
 
+  /*Media Queries*/
+
+  @media screen and (max-width: 1396px){
+
+  .carousel #company-summary {
+    width: 65%;
+    height: 1200px;
+    margin: 0 auto;
+  }
+
+  #company-summary-heading {
+    padding: 10px;
+    margin-top: 0;
+}
+
+  #left-about, #right-about, #right-about-img {
+    width: 100%;
+    clear: both;
+    float: left;
+    padding: 0;
+  }
+  
+hr {
+  display: none;
+}
+
+}
 
 
  
