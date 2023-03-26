@@ -62,14 +62,13 @@
     position: relative;
   }*/
   
-   /*company summary*/
+/*company summary*/
 
   #company-summary {
     height: 600px;
     width: 100%;
     text-align: center;
     padding-top: 0px;
-    flex-wrap: wrap;
     
   }
 
@@ -108,29 +107,27 @@
   
   #right-box {
     width: 45%;
-    height: inherit;
   }
 
   .image-sizing{
     max-width:100%;
-    object-fit: cover;
   }
 
-  /*review section homepage*/
+/*review section homepage*/
 
   #reviews {
     height: 600px;
     background-color: #1ea896;
   }
 
-  /*contact form*/
+/*contact form*/
 
   #contact-form {
     height: 600px;
     background-color: #1ea896;
   }
 
-  /*footer*/
+/*footer*/
   
   footer {
     height: 150px;
@@ -160,27 +157,67 @@
       color: #FF715B;
     }
 
-  /*media queries*/
+/*media queries*/
 
-  @media screen and (max-width: 1396px){
+@media screen and (max-width: 1396px){
 
-  .carousel #company-summary {
-    width: 65%;
-    height: 1200px;
+  .carousel {
+    width: 100%;
+    height: 50%;
+    margin: 0 auto;
+  }
+
+  .carousel h2 {
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #FF715B;
+    font-size: 0.9rem;
+    width: 50%;
+    position: absolute;
+    z-index: 3;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    background-color: rgba(29, 53, 124, 0.7);
+  }
+
+  #company-summary {
+    width: 100%;
+    height: 600px;
     margin: 0 auto;
   }
 
   #company-summary-heading {
+    width: 100%;
     padding: 10px;
     margin-top: 0;
-}
+  }
 
-  #left-box, #right-box {
+  .flexCareer{
+    display:flex;
+    flex-direction: column;
+  }
+
+  #left-box {
     width: 100%;
-    float: left;
-    padding: 0;
+    height: 20%;
+    order: 1;
+    padding: 20px;
+  }
+  
+  #right-box {
+    width: 100%;
+    height: 20%;
+    order: 2;
   }
   
 hr {
   display: none;
+}
+
+#review {
+  width: 100%;
+}
+
+#contact-form {
+  width: 100%;
 }
