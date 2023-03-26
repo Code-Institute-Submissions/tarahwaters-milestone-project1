@@ -28,15 +28,16 @@
   .carousel h2 {
     text-transform: uppercase;
     letter-spacing: 5px;
-    color: #FF715B;
-    font-size: 0.9rem;
-    width: 50%;
+    color: rgb(255, 113, 91);
+    font-size: 60px;
+    width: 45%;
     position: absolute;
     z-index: 3;
+    padding: 25px;
     margin-top: 1rem;
     margin-left: 1rem;
     background-color: rgba(29, 53, 124, 0.7);
-  }
+}
 
   /*#cover-text, #cover-text h2 {
     color: #FF715B;
