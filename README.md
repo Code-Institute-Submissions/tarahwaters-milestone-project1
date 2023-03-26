@@ -196,7 +196,9 @@ Tutor support to fix hero image alignment problem - @Paul Treggiden identified t
 **Cover-text / hero image text overlay** for hero image - initial code from CI Love Running tutorial, adapted for personal styling
 - Additional help sought from [stackoverlow](https://stackoverflow.com/questions/62550170/how-to-customize-the-bootstrap-carousel-to-have-some-text-static-and-some-chang) to add text within BS image carousel (since initial styling and responsiveness with a separate text overlay seemed too complicated)
 
-**Company-summary** - adapted code from 'club-ethos' section of CI Love Running tutorial to have a header with two columns underneath (for large screens), along with media query to help make the page responsive (e.g. collapsing to a single column)
+**Company-summary** - adapted code from 'club-ethos' section of CI Love Running tutorial to have a header with two boxes of content underneath (for large screens), along with media query to help make the page responsive (e.g. collapsing to a single column)
+- Issues with responsive styling of the two adjacent boxes (particularly with resizing the image but keeping aspect:ratio) so contacted CI tutor support for assistance. They recommended using a **'flexbox'** and this link was helpful in understanding the concept: [https://css-tricks.com/snippets/css/a-guide-to-flexbox/.](https://css-tricks.com/snippets/css/a-guide-to-flexbox/.)
+- Then had further issues with the media query to account for the flexbox, which tutor support helped with again using the **'flex-direction' property** -  [https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction]( https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction) and then **ordering the flex items** was important too - [https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Ordering_Flex_Items](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Ordering_Flex_Items)
 
 **Bootstrap buttons** - from [BS](https://getbootstrap.com/docs/5.3/components/buttons/)
 
@@ -207,6 +209,12 @@ Tutor support to fix hero image alignment problem - @Paul Treggiden identified t
 - Wireframes were created using [Balsamiq](https://balsamiq.com/) software
 
 ### Acknowledgements
+
+- Code Institute Tutor support
+- Cohort Tutor
+- Mentor
+- Cohort peers and Slack community
+
 ### References
 - [Toto Kotaro Tanaka - former CI Student github repository](https://github.com/Toto-Kotaro-Tanaka/ms1-school-of-english)
 - [Toto Kotaro Tanaka MS1 live site](https://toto-kotaro-tanaka.github.io/ms1-school-of-english/index.html)
