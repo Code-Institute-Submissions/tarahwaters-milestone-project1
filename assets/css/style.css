@@ -66,10 +66,10 @@
 
   #company-summary {
     height: 600px;
+    width: 100%;
     text-align: center;
     padding-top: 0px;
     flex-wrap: wrap;
-    /* display: flex; */
     
   }
 
@@ -78,7 +78,6 @@
     padding-top: 50px;
     padding-bottom: 50px;
     background-color: #FF715B;
-    /* flex-grow: 4; */
   }
 
   #company-summary h2,h3 {
@@ -92,7 +91,6 @@
   
   #left-box{
     width: 45%;
-    height: fit-content;
     line-height: 30px;
     background-color: #F1FAEE;
     padding: 20px;
@@ -104,16 +102,18 @@
     margin: 15px 15%;
   }
 
-  #left-box h4 {
+  #left-box h3, h4 {
     padding: 10px;
   }
   
   #right-box {
     width: 45%;
+    height: inherit;
   }
 
   .image-sizing{
     max-width:100%;
+    object-fit: cover;
   }
 
   /*review section homepage*/
@@ -175,10 +175,9 @@
     margin-top: 0;
 }
 
-  #left-about, #right-about, #right-about-img {
+  #left-box, #right-box {
     width: 100%;
-    clear: both;
-    /* float: left; */
+    float: left;
     padding: 0;
   }
   
