@@ -1,21 +1,5 @@
   @import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@800;900&family=Hind+Madurai:wght@300;400;500;600;700&family=Raleway:ital,wght@0,700;0,800;1,700;1,800&display=swap');
 
-  .flexCareer{
-    display:flex;
-  }
-  
-  #left-box{
-    width: 45%;
-  }
-  
-  #right-box {
-    width: 45%;
-  }
-
-  .image-sizing{
-    max-width:100%;
-  }
-
   body {
     font-family: 'Hind Madurai', sans-serif;
     margin: 0;
@@ -88,10 +72,6 @@
     /* display: flex; */
     
   }
-  /* #company-summary div:company-summary-heading {flex-grow: 2;} */
-  /* #company-summary div:left-about {flex-grow: 1;}
-  #company-summary div:right-about {flex-grow: 1;} */
-
 
   #company-summary-heading {
     letter-spacing: 5px;
@@ -106,40 +86,34 @@
     letter-spacing: 5px;
   }
 
-  #company-summary hr {
-    border: 5px dashed #1ea896;
-    width: 70%;
-    margin: 15px 15%;
+  .flexCareer{
+    display:flex;
   }
-
-  #left-about {
-    padding: 0px;
-    height: 100%;
-    width: 50%;
-    /* float: left; */
-    /* flex-grow: 1; */
-  }
-
-  #left-about-heading {
-    width: 100%;
+  
+  #left-box{
+    width: 45%;
+    height: fit-content;
     line-height: 30px;
     background-color: #F1FAEE;
     padding: 20px;
   }
 
-  #left-about-heading h4 {
+  #left-box hr {
+    border: 5px dashed #1ea896;
+    width: 70%;
+    margin: 15px 15%;
+  }
+
+  #left-box h4 {
     padding: 10px;
   }
-
-  #right-about {
-    width: 50%;
-    /* float: right; */
-    /* flex-grow: 1; */
+  
+  #right-box {
+    width: 45%;
   }
 
-  #right-about-img img {
-    width: 100%;
-    /*object-fit: cover;*/
+  .image-sizing{
+    max-width:100%;
   }
 
   /*review section homepage*/
@@ -211,4 +185,3 @@
 hr {
   display: none;
 }
-
