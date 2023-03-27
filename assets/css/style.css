@@ -120,7 +120,7 @@
 
   #reviews {
     height: 600px;
-    background-color: #1ea896;
+    background-color: #F1FAEE;
     margin: 0;
   }
 
@@ -128,7 +128,7 @@
 
   #contact-form {
     height: 600px;
-    background-color: #1ea896;
+    background-color: #F1FAEE;
     margin: 0;
   }
 
@@ -136,7 +136,7 @@
   
   footer {
     height: 150px;
-    background-color: #F1FAEE;
+    background-color: #1ea896;
     }
    
    .footer-about {
