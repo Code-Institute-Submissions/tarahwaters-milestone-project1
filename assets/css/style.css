@@ -120,14 +120,15 @@
   #reviews {
     height: 600px;
     background-color: #1ea896;
-    margin: auto;
+    margin: 0;
   }
 
 /*contact form*/
 
   #contact-form {
     height: 600px;
-    background-color: #1ea896;
+    background-color: #FF715B;
+    margin: 0;
   }
 
 /*footer*/
