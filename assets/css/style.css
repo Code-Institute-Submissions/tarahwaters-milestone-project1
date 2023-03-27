@@ -73,7 +73,7 @@
     margin: 0;
   }
 
-  #company-summary-heading, #reviews-heading {
+  #company-summary-heading, #reviews-heading, #contact-heading {
     letter-spacing: 5px;
     text-align: center;
     padding-top: 50px;
@@ -128,7 +128,7 @@
 
   #contact-form {
     height: 600px;
-    background-color: #FF715B;
+    background-color: #1ea896;
     margin: 0;
   }
 
@@ -192,7 +192,7 @@
     margin: 0 auto;
   }
 
-  #company-summary-heading, #reviews-heading {
+  #company-summary-heading, #reviews-heading, #contact-heading {
     width: 100%;
     padding: 10px;
     margin-top: 0;
