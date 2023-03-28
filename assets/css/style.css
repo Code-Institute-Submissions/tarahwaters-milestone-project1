@@ -124,29 +124,17 @@
     margin: 0;
   }
 
-  .review-person img {
-    max-width: 40%;
+  /* .review-person-lg img {
+    max-width: 20%;
     border-radius: 50%;
-    padding: 1.5rem 0;
-    margin: auto;
+    padding: 2rem 0;
+    width: 7rem;
   }
 
-  .review-caption h5 {
-    margin: auto;
-    color: #000;
-    text-align: center;
-    padding: 1rem;
-  }
-
-  .review-caption p {
-    font-size: 0.9rem;
-    text-align: center;
-    color: #000;
-    margin-left: 2rem;
-    margin-right: 2rem;
-    margin-bottom: 3rem;
-    padding: auto;
-  }
+  .review-person-lg p {
+    font-size: 1rem;
+    padding: 1.5rem 2rem;
+  } */
 
 /*contact form*/
 
@@ -188,7 +176,7 @@
 
 /*media queries*/
 
-@media screen and (max-width: 1396px){
+@media screen and (max-width: 1400px){
 
   .carousel {
     width: 100%;
@@ -200,6 +188,8 @@
     font-size: 2.5rem;
     width: 45%;
   }
+
+}
 
 @media screen and (max-width: 992px) {
     .carousel {
@@ -242,26 +232,43 @@
       order: 2;
     }
     
-  hr {
-    display: none;
-  }
-
-  #review {
-    width: 100%;
-  }
-
-  #contact-form {
-    width: 100%;
-  }
-
-  }
-
-@media screen and (max-width: 992px) {
-
-  .carousel h2 {
-    font-size: 2rem;
+    hr {
+      display: none;
     }
-  }  
+
+    #review {
+      width: 100%;
+    }
+
+    #contact-form {
+      width: 100%;
+    }
+
+    .review-person img {
+      max-width: 40%;
+      border-radius: 50%;
+      padding: 1.5rem 0;
+      margin: auto;
+    }
+  
+    .review-caption h5 {
+      margin: auto;
+      color: #000;
+      text-align: center;
+      padding: 1rem;
+    }
+  
+    .review-caption p {
+      font-size: 0.9rem;
+      text-align: center;
+      color: #000;
+      margin-left: 2rem;
+      margin-right: 2rem;
+      margin-bottom: 3rem;
+      padding: auto;
+    }
+
+  }
 
 @media screen and (max-width: 768px) {
 
