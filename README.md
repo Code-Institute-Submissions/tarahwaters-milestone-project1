@@ -196,11 +196,16 @@ Tutor support to fix hero image alignment problem - @Paul Treggiden identified t
 **Cover-text / hero image text overlay** for hero image - initial code from CI Love Running tutorial, adapted for personal styling
 - Additional help sought from [stackoverlow](https://stackoverflow.com/questions/62550170/how-to-customize-the-bootstrap-carousel-to-have-some-text-static-and-some-chang) to add text within BS image carousel (since initial styling and responsiveness with a separate text overlay seemed too complicated)
 
-**Company-summary** - adapted code from 'club-ethos' section of CI Love Running tutorial to have a header with two boxes of content underneath (for large screens), along with media query to help make the page responsive (e.g. collapsing to a single column)
+**Company-summary Section** - adapted code from 'club-ethos' section of CI Love Running tutorial to have a header with two boxes of content underneath (for large screens), along with media query to help make the page responsive (e.g. collapsing to a single column)
 - Issues with responsive styling of the two adjacent boxes (particularly with resizing the image but keeping aspect:ratio) so contacted CI tutor support for assistance. They recommended using a **'flexbox'** and this link was helpful in understanding the concept: [https://css-tricks.com/snippets/css/a-guide-to-flexbox/.](https://css-tricks.com/snippets/css/a-guide-to-flexbox/.)
 - Then had further issues with the media query to account for the flexbox, which tutor support helped with again using the **'flex-direction' property** -  [https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction]( https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction) and then **ordering the flex items** was important too - [https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Ordering_Flex_Items](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Ordering_Flex_Items)
 
 **Bootstrap buttons** - from [BS](https://getbootstrap.com/docs/5.3/components/buttons/)
+
+**Review Section** - another carousel was used from [BS](https://getbootstrap.com/docs/5.1/components/carousel/#dark-variant) code, this time a dark variant (so that the indicators would be more visible) with slide labels for the review quotes. 
+- The carousel worked well for mobile devices with just one review visible at a time, and the option to tap or scroll across to see more. However, it felt more appropriate to have all the reviews spread acrosss the page on larger screens.
+- Former CI student, [Toto Kotaro Tanaka's School of English page](https://toto-kotaro-tanaka.github.io/ms1-school-of-english/index.html) and [github repository](https://github.com/Toto-Kotaro-Tanaka/ms1-school-of-english) submitted for their MS1 project helped me massively in trying to figure out the structure and styling needed for the larger layout. Their code was used as a reference along with [BS documentation guidance on the grid system using column classes](https://getbootstrap.com/docs/4.0/layout/grid/).
+- [SlackOverflow](https://stackoverflow.com/questions/14977392/bootstrap-carousel-remove-auto-slide) provided support for stopping the auto scroll of slides for BS carousels.
 
 ### Media Content
 
