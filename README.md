@@ -206,6 +206,7 @@ Tutor support to fix hero image alignment problem - @Paul Treggiden identified t
 - The carousel worked well for mobile devices with just one review visible at a time, and the option to tap or scroll across to see more. However, it felt more appropriate to have all the reviews spread acrosss the page on larger screens.
 - Former CI student, [Toto Kotaro Tanaka's School of English page](https://toto-kotaro-tanaka.github.io/ms1-school-of-english/index.html) and [github repository](https://github.com/Toto-Kotaro-Tanaka/ms1-school-of-english) submitted for their MS1 project helped me massively in trying to figure out the structure and styling needed for the larger layout. Their code was used as a reference along with [BS documentation guidance on the grid system using column classes](https://getbootstrap.com/docs/4.0/layout/grid/).
 - [SlackOverflow](https://stackoverflow.com/questions/14977392/bootstrap-carousel-remove-auto-slide) provided support for stopping the auto scroll of slides for BS carousels.
+- @Paul Treggiden helped me to understand the 'display:block' function in CSS and how it could be used to centralise the review images, since it will then take up the entire space of the container it is in.
 
 ### Media Content
 
