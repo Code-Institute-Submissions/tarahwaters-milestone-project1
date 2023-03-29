@@ -125,9 +125,11 @@
   }
 
   .review-person-lg img {
+    display: block;
     max-width: 40%;
-    margin-top: 2rem;
-    margin-left: 10rem;
+    margin-top: 2rem 0;
+    margin-left: auto;
+    margin-right: auto;
     border-radius: 50%;
     padding: 2rem 0;
   }
