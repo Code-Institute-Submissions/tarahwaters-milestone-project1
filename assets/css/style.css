@@ -92,6 +92,13 @@
     max-width:100%;
   }
 
+  button[type="button"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #F1FAEE;
+    background-color: #FF715B;
+  }
+
 /*review section homepage*/
 
   .reviews {
@@ -124,7 +131,7 @@
 /*contact form*/
 
   #contact-home {
-    height: 600px;
+    height: fit-content;
     background-color: #F1FAEE;
     margin: 0;
   }
