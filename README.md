@@ -201,6 +201,8 @@ Tutor support to fix hero image alignment problem - @Paul Treggiden identified t
 - Then had further issues with the media query to account for the flexbox, which tutor support helped with again using the **'flex-direction' property** -  [https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction]( https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction) and then **ordering the flex items** was important too - [https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Ordering_Flex_Items](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Ordering_Flex_Items)
 
 **Bootstrap buttons** - from [BS](https://getbootstrap.com/docs/5.3/components/buttons/)
+- CI CV Project tutorial was used to help with overriding BS button styling to match website colour scheme
+- [Testbook](https://testbook.com/web-development/how-to-create-an-html-button-that-acts-like-a-link) helped fix the link for the 'Get in touch' button so it redirects to the contact-form section towards the bottom of the page.
 
 **Review Section** - another carousel was used from [BS](https://getbootstrap.com/docs/5.1/components/carousel/#dark-variant) code, this time a dark variant (so that the indicators would be more visible) with slide labels for the review quotes. 
 - The carousel worked well for mobile devices with just one review visible at a time, and the option to tap or scroll across to see more. However, it felt more appropriate to have all the reviews spread acrosss the page on larger screens.
