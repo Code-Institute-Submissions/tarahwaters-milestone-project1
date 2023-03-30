@@ -123,10 +123,30 @@
 
 /*contact form*/
 
-  #contact-form {
+  #contact-home {
     height: 600px;
     background-color: #F1FAEE;
     margin: 0;
+  }
+
+  .contact-heading {
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-weight: 500;
+    margin-top: 25px;
+    margin-bottom: 20px;
+  }
+
+  .contact-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+  }
+
+  button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #F1FAEE;
+    background-color: #FF715B;
   }
 
 /*footer*/
