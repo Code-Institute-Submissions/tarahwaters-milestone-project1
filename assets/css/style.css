@@ -165,6 +165,25 @@
     background-color: #FF715B;
   }
 
+  .form-group {
+    display: table;
+    width: 100%;
+    border-spacing: 0 5px;
+  }
+
+  .form-group * {
+      display:table-cell;
+  }
+
+  .form-group label {
+    font-weight: bold;
+    width: 100px;
+  }
+
+  .form-group input {
+    width: 100%;
+  }
+
 /*footer*/
   
   footer {
