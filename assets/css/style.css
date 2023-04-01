@@ -165,10 +165,18 @@
     background-color: #FF715B;
   }
 
-  .form-group {
+  /* .form-group {
     display: table;
     width: 100%;
     border-spacing: 0 5px;
+  } */
+
+  .form-group {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border-spacing: 0 5px;
+    margin-top: 10px;
   }
 
   .form-group * {
@@ -216,7 +224,7 @@
 
 /*media queries*/
 
-@media screen and (max-width: 1400px){
+@media screen and (min-width: 992px){
 
   .carousel {
     width: 100%;
@@ -227,6 +235,19 @@
   .carousel h2 {
     font-size: 2.5rem;
     width: 45%;
+  }
+
+  .form-group {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    border-spacing: 0 5px;
+    margin-top: 10px;
+  }
+
+  .form-group label {
+    font-weight: bold;
+    width: 100px;
   }
 
 }
@@ -315,7 +336,7 @@
   .carousel h2 {
     font-size: 1.5rem;
     width: 50%;
-    }
+    } 
 
   }  
 
