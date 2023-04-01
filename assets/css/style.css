@@ -13,6 +13,11 @@
     font-family: 'Raleway', sans-serif;
   }
 
+  .about-us-link {
+    text-decoration: none;
+    color: #1ea896;
+  }
+
 /*navbar*/
 
   .navbar-brand {
