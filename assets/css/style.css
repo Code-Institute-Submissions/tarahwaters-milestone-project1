@@ -23,6 +23,10 @@
     background-color: #1ea896;
   }
 
+  .navbar-expand-md .navbar-collapse {
+    justify-content: end;
+    }
+
   /*hero carousel*/
 
   .carousel h2 {
