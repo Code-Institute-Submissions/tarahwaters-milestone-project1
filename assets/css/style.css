@@ -330,6 +330,10 @@
       padding: auto;
     }
 
+    .first-name-input {
+      margin-bottom: 2rem;
+    }
+
   }
 
 @media screen and (max-width: 768px) {
