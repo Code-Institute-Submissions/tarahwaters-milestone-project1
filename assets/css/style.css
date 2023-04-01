@@ -207,9 +207,16 @@
       padding: 5%;
       color: #000;
     }
+
+    .footer-copyright {
+      text-align: center;
+      padding: 5%
+    
+    }
   
     .social-networks {
       text-align: right;
+      margin-top: 5%;
     }
     
     .social-networks li {
