@@ -184,35 +184,39 @@ I designed a new logo to also match with the themes (will choose one).
 
 ### Content
 
-**Navbar** from [Bootstrap or BS](https://getbootstrap.com/docs/5.0/components/navbar/#responsive-behaviors) - adjusted bg color and added brand/logo with homepage link @Nathan Parry_4P_cohort_lead and @Paul Treggiden helped fix issues with styling
+**Navbar** from [Bootstrap or BS](https://getbootstrap.com/docs/5.0/components/navbar/#responsive-behaviors) 
+- adjusted bg color and added brand/logo with homepage link, moved menu items across to the right side for better UI.
+- **@Nathan Parry_4P_cohort_lead** and **@Paul Treggiden** (see References for contact links) helped fix issues with styling.
 
-**Footer** - used code from Code Institute (CI) Love Running tutorial as a reference, then adapted styling for page and used bootstrap columns to separate text and social links
+**Footer** - used code from Code Institute (CI) Love Running tutorial as a reference, then adapted styling for page and used bootstrap columns to separate text and social links.
 
-**Hero image carousel** from [BS](https://getbootstrap.com/docs/4.0/components/carousel/#with-indicators)
-- Help with carousel slides initially not showing up - [ByteGrad on YouTube](https://www.youtube.com/watch?v=mPZLxhgTKCU)
-- Suggestions on how to crop height of carousel heroimage3.jpg after successfully targeting in CSS - [linuxhint](https://linuxhint.com/how-to-crop-an-image-using-css/)
-Tutor support to fix hero image alignment problem - @Paul Treggiden identified that the problem was that the image aspect ratio was different to the others (using an aspect ratio calculator), and helped me adjust my image to a 3x2 ratio that now works well.
+**Hero image carousel** from [BS](https://getbootstrap.com/docs/4.0/components/carousel/#with-indicators).
+- Help with carousel slides initially not showing up - [ByteGrad on YouTube](https://www.youtube.com/watch?v=mPZLxhgTKCU).
+- Suggestions on how to crop height of carousel heroimage3.jpg after successfully targeting in CSS - [linuxhint](https://linuxhint.com/how-to-crop-an-image-using-css/).
+Tutor support to fix hero image alignment problem - **@Paul Treggiden** identified that the problem was that the image aspect ratio was different to the others (using an aspect ratio calculator), and helped me adjust my image to a 3x2 ratio that now works well.
 
 **Cover-text / hero image text overlay** 
-- Initial code attempted using CI Love Running tutorial, adapted for personal styling
-- Then additional help sought from [stackoverlow](https://stackoverflow.com/questions/62550170/how-to-customize-the-bootstrap-carousel-to-have-some-text-static-and-some-chang) to add text within BS image carousel (since initial styling and responsiveness with a separate text overlay seemed too complicated)
+- Initial code attempted using CI Love Running tutorial, adapted for personal styling.
+- Then additional help sought from [stackoverlow](https://stackoverflow.com/questions/62550170/how-to-customize-the-bootstrap-carousel-to-have-some-text-static-and-some-chang) to add text within BS image carousel (since initial styling and responsiveness with a separate text overlay seemed too complicated).
 
-**Company-summary Section** - used code from 'club-ethos' section of CI Love Running tutorial as a reference to have a header with two boxes of content underneath (for large screens), along with media query to help make the page responsive (e.g. collapsing to a single column)
-- Issues with responsive styling of the two adjacent boxes (particularly with resizing the image but keeping aspect:ratio) so contacted CI tutor support for assistance. They recommended using a **'flexbox'** and this link was helpful in understanding the concept: [https://css-tricks.com/snippets/css/a-guide-to-flexbox/.](https://css-tricks.com/snippets/css/a-guide-to-flexbox/.)
-- Then had further issues with the media query to account for the flexbox, which tutor support helped with again using the **'flex-direction' property** -  [https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction]( https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction) and then **ordering the flex items** was important too - [https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Ordering_Flex_Items](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Ordering_Flex_Items)
+**Company-summary Section** - used code from 'club-ethos' section of CI Love Running tutorial as a reference to have a header with two boxes of content underneath (for large screens), along with media query to help make the page responsive (e.g. collapsing to a single column).
+- Issues with responsive styling of the two adjacent boxes (particularly with resizing the image but keeping aspect:ratio) so contacted CI tutor support for assistance. They recommended using a **'flexbox'** and this link was helpful in understanding the concept: [https://css-tricks.com/snippets/css/a-guide-to-flexbox/.](https://css-tricks.com/snippets/css/a-guide-to-flexbox/.).
+- Then had further issues with the media query to account for the flexbox, which tutor support helped with again using the **'flex-direction' property** -  [https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction]( https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction) and then **ordering the flex items** was important too - [https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Ordering_Flex_Items](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Ordering_Flex_Items).
 
-**Bootstrap buttons** - from [BS](https://getbootstrap.com/docs/5.3/components/buttons/)
-- CI CV Project tutorial was used to help with overriding BS button styling to match website colour scheme
+**Bootstrap buttons** - from [BS](https://getbootstrap.com/docs/5.3/components/buttons/).
+- CI CV Project tutorial was used to help with overriding BS button styling to match website colour scheme.
 - [Testbook](https://testbook.com/web-development/how-to-create-an-html-button-that-acts-like-a-link) helped fix the link for the 'Get in touch' button so it redirects to the contact-form section towards the bottom of the page.
 
 **Review Section** - another carousel was used from [BS](https://getbootstrap.com/docs/5.1/components/carousel/#dark-variant) code, this time a dark variant (so that the indicators would be more visible) with slide labels for the review quotes. 
 - The carousel worked well for mobile devices with just one review visible at a time, and the option to tap or scroll across to see more. However, it felt more appropriate to have all the reviews spread acrosss the page on larger screens.
 - Former CI student, [Toto Kotaro Tanaka's School of English page](https://toto-kotaro-tanaka.github.io/ms1-school-of-english/index.html) and [github repository](https://github.com/Toto-Kotaro-Tanaka/ms1-school-of-english) submitted for their MS1 project helped me massively in trying to figure out the structure and styling needed for the larger layout. Their code was used as a template which was then adapted and styled along with [BS documentation guidance on the grid system using column classes](https://getbootstrap.com/docs/4.0/layout/grid/).
 - [SlackOverflow](https://stackoverflow.com/questions/14977392/bootstrap-carousel-remove-auto-slide) provided support for stopping the auto scroll of slides for BS carousels.
-- @Paul Treggiden helped me to understand the 'display:block' function in CSS and how it could be used to centralise the review images, since it will then take up the entire space of the container it is in.
+- @Paul Treggiden explain the 'display:block' function in CSS and how it could be used to centralise the review images, since it will then take up the entire space of the container it is in.
 
-**Contact-form Section** - adapted code from CI CV and Love Running project tutorials
+**Contact-form Section** - adapted code initially from CI CV and Love Running project tutorials.
 - Used [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel) for help with understanding **input type="tel"** properties for the contact form.
+- When adding labels to the contact form, the structure became distorted and less uniform so decided to add in some [BS form elements](https://getbootstrap.com/docs/4.0/components/forms/) for easier responsive styling.
+- [SlackOverflow](https://stackoverflow.com/questions/31873595/keep-label-and-auto-sizing-input-on-the-same-line) was used to help adjust the visual layout of the name inputs, so that on larger screens the first name and last name inputs could share a row. [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction) gave further insight into the potential use of **flex-direction**, along with troubleshooting help from cohort peer, **@Paul Treggiden**.
 
 ### Media Content
 
@@ -232,7 +236,8 @@ Tutor support to fix hero image alignment problem - @Paul Treggiden identified t
 - [Toto Kotaro Tanaka MS1 live site](https://toto-kotaro-tanaka.github.io/ms1-school-of-english/index.html)
 - [jtuck15 - former CI student github repository](https://github.com/Code-Institute-Submissions/jtuck15-milestone-project-1)
 -	[jtuck15 MS1 live site](https://jtuck15.github.io/milestone-project-1/index.html)
-- [@Nathan Parry_4P_cohort_lead](https://app.slack.com/client/T0L30B202/D04ULFN551P/rimeto_profile/U04EX23NTND) general support and encouragement, help with README.md structure, ideas and useful websites  
+- [@Nathan Parry_4P_cohort_lead](https://app.slack.com/client/T0L30B202/D04ULFN551P/rimeto_profile/U04EX23NTND) support with coding advice and encouragement, help with README.md structure, ideas and useful websites  
+- [@Paul Treggiden](https://app.slack.com/client/T0L30B202/D04UYMV6WBG/rimeto_profile/U043S9PT5E1) support with coding advice and encouragement
 - [Stephen Seagrave](https://github.com/nemixu) - former CI student and tutor. MS1 guidance and access to Stephen's Milestone1 repo which was useful for inpsiration and structure when planning
 - [Iris Smok](https://ie.linkedin.com/in/irissmok) - Cohort facilitator
 - First tried a navbar - from [codepen.io](https://codepen.io/johndoenma/pen/VXpaVM) Simple Header with Inline Image Logo and HTML Text
