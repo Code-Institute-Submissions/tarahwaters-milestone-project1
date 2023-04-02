@@ -18,6 +18,14 @@
     color: #1ea896;
   }
 
+  #company-summary-heading, #reviews-heading, #contact-heading, #about-team-heading {
+    letter-spacing: 5px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #FF715B;
+  }
+
 /*navbar*/
 
   .navbar-brand {
@@ -56,14 +64,6 @@
     text-align: center;
     padding-top: 0px;
     margin: 0;
-  }
-
-  #company-summary-heading, #reviews-heading, #contact-heading {
-    letter-spacing: 5px;
-    text-align: center;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    background-color: #FF715B;
   }
 
   #company-summary h2,h3 {
