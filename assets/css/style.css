@@ -137,7 +137,7 @@
     text-align: center;
   }
 
-/*contact form*/
+/*contact form and page*/
 
   #contact-home {
     height: fit-content;
@@ -145,12 +145,18 @@
     margin: 0;
   }
 
-  .contact-heading {
+  #contact-page {
+    height: fit-content;
+    background-color: #F1FAEE;
+    margin: 0;
+  }
+
+  .contact-description {
     font-family: 'Alegreya Sans SC', sans-serif;
     font-weight: 500;
     margin-top: 25px;
     margin-bottom: 20px;
-  }
+  }  
 
   .contact-form {
     padding-top: 10px;
