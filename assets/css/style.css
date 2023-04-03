@@ -206,11 +206,17 @@
     height: 150px;
     background-color: #b7d9b1;
     }
+
+  .footer-link {
+    text-decoration: none;
+    color: #000;
+    text-align: center;
+  }
    
    .footer-about {
       font-size: 150%;
       font-family: 'Alegreya Sans SC', sans-serif;
-      text-align: left;
+      text-align: center;;
       margin: auto;
       padding: 5%;
       color: #000;
@@ -223,7 +229,6 @@
     }
   
     .social-networks {
-      text-align: right;
       margin-top: 5%;
     }
     
@@ -232,7 +237,7 @@
     }
     .social-networks i {
       font-size: 150%;
-      margin: 30px auto;
+      margin: auto;
       padding: 5%;
       color: #FF715B;
     }
