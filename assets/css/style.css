@@ -20,7 +20,7 @@
     color: #1d357c;
   }
 
-  #company-summary-heading, #reviews-heading, #contact-heading, #about-team-heading, #contact-page-heading {
+  #company-summary-heading, #reviews-heading, #contact-heading, #about-summit-heading, #contact-page-heading {
     letter-spacing: 5px;
     text-align: center;
     padding-top: 50px;
@@ -176,12 +176,6 @@
     font-weight: 900;
     background-color: #FF715B;
   }
-
-  /* .form-group {
-    display: table;
-    width: 100%;
-    border-spacing: 0 5px;
-  } */
 
   .form-group {
     display: flex;
