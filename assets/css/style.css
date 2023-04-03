@@ -14,8 +14,10 @@
   }
 
   .about-us-link {
+    font-family: 'Raleway';
+    font-weight: 700;
     text-decoration: none;
-    color: #1ea896;
+    color: #1d357c;
   }
 
   #company-summary-heading, #reviews-heading, #contact-heading, #about-team-heading, #contact-page-heading {
@@ -33,7 +35,7 @@
   }
 
   .navbar {
-    background-color: #1ea896;
+    background-color: #b7d9b1;
   }
 
   .navbar-expand-md .navbar-collapse {
@@ -84,7 +86,7 @@
   }
 
   #left-box hr {
-    border: 5px dashed #1ea896;
+    border: 5px dashed #1d357c;
     width: 70%;
     margin: 15px 15%;
   }
@@ -202,7 +204,7 @@
   
   footer {
     height: 150px;
-    background-color: #1ea896;
+    background-color: #b7d9b1;
     }
    
    .footer-about {

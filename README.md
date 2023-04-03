@@ -122,8 +122,13 @@ All pages will include the same header and footer for consistency. The mobile an
 
 [coolors.co](https://coolors.co/) was used to create a colour palette for the design.
 
-I designed a new logo to also match with the themes (will choose one).
+I designed a new logo to also match with the themes. These were the initial colour palettes used.
+
 ![Summit website colour palettes](/documentation/readme/summit-colour-schemes.jpg "Summit website colour palettes")
+
+Then an alternative was tested after DevTools suggested a more user friendly contrast in colors - 
+
+![Current Summit colour palette](/documentation/readme/summit-colors-update.png "Current Summit colour palette")
 
 
 ### Typography
