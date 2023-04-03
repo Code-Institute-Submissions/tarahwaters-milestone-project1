@@ -106,7 +106,9 @@
   button[type="button"] {
     margin-top: 15px;
     margin-bottom: 20px;
-    color: #F1FAEE;
+    color: #000;
+    font-family: 'Raleway';
+    font-weight: 900;
     background-color: #FF715B;
   }
 
@@ -169,7 +171,9 @@
   button[type="submit"] {
     margin-top: 15px;
     margin-bottom: 20px;
-    color: #F1FAEE;
+    color: #000;
+    font-family: 'Raleway';
+    font-weight: 900;
     background-color: #FF715B;
   }
 
