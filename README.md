@@ -194,6 +194,8 @@ Then an alternative was tested after DevTools suggested a more user friendly con
 - **@Nathan Parry_4P_cohort_lead** and **@Paul Treggiden** (see References for contact links) helped fix issues with styling.
 
 **Footer** - used code from Code Institute (CI) Love Running tutorial as a reference, then adapted styling for page and used bootstrap columns to separate text and social links.
+- Issues with responsiveness and text-alignment within the columns for larger screens, so contacted CI tutor support to help with this. Solution found using BS class of 'my-auto' to add auto top and bottom margins to each column which helped to center the content.
+- Footer design for mobile devices was simplified using a different set of code (logo and social links only displayed using a BS row) hidden for larger screens using the 'd-lg-none' BS class.
 
 **Hero image carousel** from [BS](https://getbootstrap.com/docs/4.0/components/carousel/#with-indicators).
 - Help with carousel slides initially not showing up - [ByteGrad on YouTube](https://www.youtube.com/watch?v=mPZLxhgTKCU).
