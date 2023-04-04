@@ -225,6 +225,8 @@ Tutor support to fix hero image alignment problem - **@Paul Treggiden** identifi
 - When adding labels to the contact form, the structure became distorted and less uniform so decided to add in some [BS form elements](https://getbootstrap.com/docs/4.0/components/forms/) for easier responsive styling.
 - [SlackOverflow](https://stackoverflow.com/questions/31873595/keep-label-and-auto-sizing-input-on-the-same-line) was used to help adjust the visual layout of the name inputs, so that on larger screens the first name and last name inputs could share a row. [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction) gave further insight into the potential use of **flex-direction**, along with troubleshooting help from cohort peer, **@Paul Treggiden**.
 
+**About Page** - styles utilised from homepage and structure for 'Team and Advisor Board' sections based on code used for 'Review' section (adapted BS column layout to emphasise top two team members in the larger screen layout).
+
 ### Media Content
 
 - Photos used on the webpage came from [https://unsplash.com](https://unsplash.com/)
