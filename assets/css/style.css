@@ -28,6 +28,13 @@
     background-color: #FF715B;
   }
 
+  .section-styling {
+    height: fit-content;
+    background-color: #F1FAEE;
+    margin: 0;
+  }
+  
+
 /*navbar*/
 
   .navbar-brand {
