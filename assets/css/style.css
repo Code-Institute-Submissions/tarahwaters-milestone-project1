@@ -156,12 +156,6 @@
     margin: 0;
   }
 
-  #contact-page {
-    height: fit-content;
-    background-color: #F1FAEE;
-    margin: 0;
-  }
-
   .contact-description {
     font-family: 'Raleway', sans-serif;
     font-weight: 500;
@@ -206,12 +200,6 @@
   }
 
 /*about page*/
-
-  #about-summit {
-    height: fit-content;
-    background-color: #F1FAEE;
-    margin: 0;
-  }
 
   #who-box {
     width: 100%;
