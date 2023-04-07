@@ -20,7 +20,7 @@
     color: #1d357c;
   }
 
-  #company-summary-heading, #reviews-heading, #contact-heading, #contact-page-heading {
+  .section-headings {
     letter-spacing: 5px;
     text-align: center;
     padding-top: 50px;
