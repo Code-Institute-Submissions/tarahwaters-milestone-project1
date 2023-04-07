@@ -294,7 +294,7 @@
       margin: 0 auto;
     }
 
-    #company-summary-heading, #reviews-heading, #contact-heading {
+    .section-headings {
       width: 100%;
       padding: 10px;
       margin-top: 0;
