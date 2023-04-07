@@ -206,14 +206,6 @@
     margin: 0;
   }
 
-  .about-headings {
-    letter-spacing: 5px;
-    text-align: center;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    background-color: #FF715B;
-  }
-
   #who-box {
     width: 100%;
     max-height: max-content;
