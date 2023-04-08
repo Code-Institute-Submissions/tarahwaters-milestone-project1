@@ -175,6 +175,12 @@ Then an alternative was tested after DevTools suggested a more user friendly con
 
 ## Issues / Bugs:
 
+- Boostrap hero image carousel takes up too much space on large screens
+- Horizontal and vertical extra spacing of the page on all devices (excessive margin at bottom and right sides of pages)
+- Alignment of 'next/previous' carousel indicators on hero and review images
+- Review captions distort container height and alignment of carousel indicators
+- No redirect page after submitting data for contact form
+
 ---
 
 ## Validation:
