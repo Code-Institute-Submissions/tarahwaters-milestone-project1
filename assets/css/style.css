@@ -207,7 +207,7 @@
 /*footer*/
   
   footer {
-    height: 150px;
+    height: max-content;
     background-color: #b7d9b1;
     }
 
