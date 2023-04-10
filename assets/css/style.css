@@ -204,6 +204,17 @@
     padding: 2rem;
   }
 
+/*redirect page*/
+
+  #redirect {
+    width: 100%;
+    max-height: max-content;
+    text-align: center;
+    line-height: 30px;
+    background-color: #F1FAEE;
+    padding: 2rem;
+  }
+
 /*footer*/
   
   footer {
