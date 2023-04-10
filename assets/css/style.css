@@ -292,6 +292,11 @@
     margin: 0 1rem;
   }
 
+  #redirect {
+    height: 800px;
+    padding: 15rem;
+  }
+
 }
 
 @media screen and (max-width: 992px) {
