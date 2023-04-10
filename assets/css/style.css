@@ -208,7 +208,7 @@
 
   #redirect {
     width: 100%;
-    max-height: max-content;
+    height: 350px;
     text-align: center;
     line-height: 30px;
     background-color: #F1FAEE;
