@@ -264,6 +264,13 @@
   height: 100vh;
   }
 
+  #left-box {
+    padding: 3%;
+  }
+
+  #left-box p {
+    font-size: 1.5rem;
+  }
 }
 
 @media screen and (max-width: 1525px){
