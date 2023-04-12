@@ -415,8 +415,15 @@ footer {
   }
 }
 
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 480px) {
   #hero-image-controls h2 {
     font-size: 0.9rem;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  #hero-image-controls h2 {
+    font-size: 0.5rem;
+    padding: 1rem;
   }
 }
