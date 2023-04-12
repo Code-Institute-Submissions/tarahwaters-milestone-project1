@@ -152,12 +152,6 @@ button[type="button"] {
   text-align: center;
 }
 
-.carousel-control-next,
-.carousel-control-prev {
-  align-items: flex-start !important;
-  padding-top: 100px !important;
-}
-
 /*contact form section and contact page*/
 
 .contact-description {
@@ -339,6 +333,12 @@ footer {
     width: 100%;
     height: 50%;
     margin: 0 auto;
+  }
+
+  .carousel-control-next,
+  .carousel-control-prev {
+    align-items: flex-start !important;
+    padding-top: 100px !important;
   }
 
   #hero-image-controls h2 {
