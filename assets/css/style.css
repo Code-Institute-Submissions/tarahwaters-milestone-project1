@@ -148,6 +148,11 @@
     text-align: center;
   }
 
+  .carousel-control-next, .carousel-control-prev {
+    align-items: flex-start !important;
+    padding-top: 100px !important;
+    }
+
 /*contact form section and contact page*/
 
   .contact-description {
@@ -399,7 +404,6 @@
     .first-name-input {
       margin-bottom: 0.5rem;
     }
-
   }
 
 @media screen and (max-width: 768px) {
@@ -414,7 +418,7 @@
 @media screen and (max-width: 576px) {
       
   #hero-image-controls h2 {
-    font-size: 1rem;
+    font-size: 0.9rem;
     }
 
    }  
