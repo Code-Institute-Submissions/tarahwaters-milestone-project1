@@ -280,11 +280,21 @@ footer {
   #left-box p {
     font-size: 1.5rem;
   }
+
+  #hero-image-controls h2 {
+    font-size: 6rem;
+    width: 45%;
+  }
 }
 
 @media screen and (max-width: 1525px) {
   .image-sizing {
     height: 100%;
+  }
+
+   #hero-image-controls h2 {
+    font-size: 4rem;
+    width: 45%;
   }
 }
 
@@ -294,37 +304,31 @@ footer {
   }
 }
 
-@media screen and (min-width: 992px) {
-  .carousel {
-    width: 100%;
-    height: 50%;
-    margin: 0 auto;
+@media screen and (max-width: 2000px) {
+    #hero-image-controls h2 {
+      font-size: 5rem;
+      width: 45%;
+    }
+  
+    .form-group {
+      display: flex;
+      flex-direction: row;
+      width: 100%;
+      border-spacing: 0 5px;
+      margin-top: 10px;
+    }
+  
+    .form-group label {
+      font-weight: bold;
+      min-width: 100px;
+      margin: 0 1rem;
+    }
+  
+    #redirect {
+      height: 800px;
+      padding: 15rem;
+    }
   }
-
-  #hero-image-controls h2 {
-    font-size: 2.5rem;
-    width: 45%;
-  }
-
-  .form-group {
-    display: flex;
-    flex-direction: row;
-    width: 100%;
-    border-spacing: 0 5px;
-    margin-top: 10px;
-  }
-
-  .form-group label {
-    font-weight: bold;
-    min-width: 100px;
-    margin: 0 1rem;
-  }
-
-  #redirect {
-    height: 800px;
-    padding: 15rem;
-  }
-}
 
 @media screen and (max-width: 992px) {
   .carousel {
