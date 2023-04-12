@@ -276,6 +276,12 @@
   }
 }
 
+@media screen and (max-width: 1400px) {
+  #hero-image-controls h2 {
+    font-size: 3rem;
+  }
+}
+
 @media screen and (min-width: 992px){
 
   .carousel {
