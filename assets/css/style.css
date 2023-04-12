@@ -285,6 +285,18 @@ footer {
   }
 }
 
+@media screen and (max-width: 2000px) {
+  #hero-image-controls h2 {
+    font-size: 5rem;
+    width: 45%;
+  }
+
+  #redirect {
+    height: 800px;
+    padding: 15rem;
+  }
+}
+
 @media screen and (max-width: 1525px) {
   .image-sizing {
     height: 100%;
@@ -301,32 +313,6 @@ footer {
     font-size: 3rem;
   }
 }
-
-@media screen and (max-width: 2000px) {
-    #hero-image-controls h2 {
-      font-size: 5rem;
-      width: 45%;
-    }
-  
-    .form-group {
-      display: flex;
-      flex-direction: row;
-      width: 100%;
-      border-spacing: 0 5px;
-      margin-top: 10px;
-    }
-  
-    .form-group label {
-      font-weight: bold;
-      min-width: 100px;
-      margin: 0 1rem;
-    }
-  
-    #redirect {
-      height: 800px;
-      padding: 15rem;
-    }
-  }
 
 @media screen and (max-width: 992px) {
   .carousel {
@@ -414,6 +400,22 @@ footer {
   .first-name-input {
     margin-bottom: 0.5rem;
   }
+}
+
+@media screen and (min-width: 992px) {
+  .form-group {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  border-spacing: 0 5px;
+  margin-top: 10px;
+}
+
+.form-group label {
+  font-weight: bold;
+  min-width: 100px;
+  margin: 0 1rem;
+}
 }
 
 @media screen and (max-width: 768px) {
