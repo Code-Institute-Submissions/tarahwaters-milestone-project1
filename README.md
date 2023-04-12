@@ -175,11 +175,11 @@ Then an alternative was tested after DevTools suggested a more user friendly con
 
 ## Issues / Bugs:
 
-- Boostrap hero image carousel takes up too much space on large screens
+- **Boostrap hero image carousel takes up too much space on large screens** - ✔️ semi-fixed by adjusting the viewport image height in a media query for large screens above 2000px.
 - **Horizontal and vertical extra spacing of the page on all devices (excessive margin at bottom and right sides of pages)** - ✅ horizontal spacing fixed by overriding BS gutter via .row class on all pages (credit to @Paul Treggiden for help with this), and vertical spacing fixed by maximising the height of the footer on all pages.
-- Alignment of 'next/previous' carousel indicators on hero and review images
-- Review captions distort container height and alignment of carousel indicators
-- **No redirect page after submitting data for contact form** - ✅ redirect.html page created for user confirmation after submitting form data and links added to all contact forms (with button to return to the Home page)
+- Alignment of 'next/previous' carousel indicators on hero and review images - ✔️ semi-fixed by adding a media query for mobile devices (less than 992px) that overrides the BS class properties for 'align-items' and 'padding-top' so that prev/next indicators are more visible around the review photos. However, this styling then applies to the hero carousel indicators too which makes them less useable (though this is not too problematic for mobile devices, since the buttons are a bit cumbersome anyway).
+- Review captions distort container height and alignment of carousel indicators - ❌ not yet fixed. Carousel indicators are now separately styled to be located above the review captions, but the caption container adapts in height depending on the content size which is quite jarring for the user on mobile devices.
+- **No redirect page after submitting data for contact form** - ✅ redirect.html page created for user confirmation after submitting form data and links added to all contact forms (with button to return to the Home page).
 
 ---
 
