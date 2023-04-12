@@ -176,10 +176,10 @@ Then an alternative was tested after DevTools suggested a more user friendly con
 ## Issues / Bugs:
 
 - Boostrap hero image carousel takes up too much space on large screens
-- Horizontal and vertical extra spacing of the page on all devices (excessive margin at bottom and right sides of pages)
+- **Horizontal and vertical extra spacing of the page on all devices (excessive margin at bottom and right sides of pages)** - ✅ horizontal spacing fixed by overriding BS gutter via .row class on all pages (credit to @Paul Treggiden for help with this), and vertical spacing fixed by maximising the height of the footer on all pages.
 - Alignment of 'next/previous' carousel indicators on hero and review images
 - Review captions distort container height and alignment of carousel indicators
-- No redirect page after submitting data for contact form
+- **No redirect page after submitting data for contact form** - ✅ redirect.html page created for user confirmation after submitting form data and links added to all contact forms (with button to return to the Home page)
 
 ---
 
