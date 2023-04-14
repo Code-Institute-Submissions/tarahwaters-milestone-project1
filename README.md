@@ -201,6 +201,10 @@ The pages of the website are as follows:
 
 ## Credits:
 
+| Source | Location | Notes |
+| --- | --- | --- |
+| [Markdown Builder](https://traveltimn.github.io/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
+
 ### Content
 
 **Navbar** from [Bootstrap or BS](https://getbootstrap.com/docs/5.0/components/navbar/#responsive-behaviors) 
@@ -264,3 +268,4 @@ Tutor support to fix hero image alignment problem - **@Paul Treggiden** identifi
 - [Stephen Seagrave](https://github.com/nemixu) - former CI student and tutor. MS1 guidance and access to Stephen's Milestone1 repo which was useful for inpsiration and structure when planning
 - [Iris Smok](https://ie.linkedin.com/in/irissmok) - Cohort facilitator
 - First tried a navbar - from [codepen.io](https://codepen.io/johndoenma/pen/VXpaVM) Simple Header with Inline Image Logo and HTML Text
+
