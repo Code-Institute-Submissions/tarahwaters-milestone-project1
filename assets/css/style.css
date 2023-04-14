@@ -41,6 +41,16 @@ h5 {
 	margin: 0;
 }
 
+.btn-secondary {
+	--bs-btn-bg: #ff715b !important;
+}
+
+.btn {
+	color: #000 !important;
+	font-family: "Raleway" !important;
+	font-weight: 900 !important;
+}
+
 /*navbar*/
 
 .navbar-brand {
@@ -118,14 +128,14 @@ h4 {
 	max-width: 100%;
 }
 
-button[type="button"] {
+/* button[type="button"] {
 	margin-top: 15px;
 	margin-bottom: 20px;
 	color: #000;
 	font-family: "Raleway";
 	font-weight: 900;
 	background-color: #ff715b;
-}
+} */
 
 /*review section homepage*/
 
