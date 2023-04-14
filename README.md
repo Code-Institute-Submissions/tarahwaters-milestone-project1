@@ -154,6 +154,13 @@ Then an alternative was tested after DevTools suggested a more user friendly con
 
 ## Features:
 
+The pages of the website are as follows:
+
+- Home page
+- About page
+- Contact us page (the same contact form is also included at the bottom of each page as per the client's request for maximising user engagement)
+- Redirected confirmation page (after submitting form data)
+
 
 ---
 
