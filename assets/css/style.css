@@ -65,6 +65,13 @@ h5 {
 	justify-content: end;
 }
 
+button[type="button"] {
+	margin-top: 15px;
+	margin-bottom: 20px;
+	color: #000;
+	background-color: #ff715b;
+}
+
 /*hero carousel*/
 
 #hero-image-controls h2 {
@@ -127,15 +134,6 @@ h4 {
 .image-sizing {
 	max-width: 100%;
 }
-
-/* button[type="button"] {
-	margin-top: 15px;
-	margin-bottom: 20px;
-	color: #000;
-	font-family: "Raleway";
-	font-weight: 900;
-	background-color: #ff715b;
-} */
 
 /*review section homepage*/
 
