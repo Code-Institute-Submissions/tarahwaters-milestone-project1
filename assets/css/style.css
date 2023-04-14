@@ -315,6 +315,11 @@ footer {
 		font-size: 4rem;
 		width: 45%;
 	}
+
+	#redirect {
+		padding: 10rem;
+		height: 500px;
+	}
 }
 
 @media screen and (max-width: 1400px) {
