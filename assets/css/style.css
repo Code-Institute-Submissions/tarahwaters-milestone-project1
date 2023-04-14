@@ -228,7 +228,7 @@ button[type="submit"] {
 	text-align: center;
 	line-height: 30px;
 	background-color: #f1faee;
-	padding: 2.5rem;
+	padding: 2rem;
 }
 
 /*footer*/
@@ -431,6 +431,11 @@ footer {
 	#hero-image-controls h2 {
 		font-size: 1.5rem;
 		width: 45%;
+	}
+
+	#redirect {
+		padding: 3rem;
+		height: max-content;
 	}
 }
 
