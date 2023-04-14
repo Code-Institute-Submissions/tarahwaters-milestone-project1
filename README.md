@@ -180,6 +180,7 @@ Then an alternative was tested after DevTools suggested a more user friendly con
 - **Alignment of 'next/previous' carousel indicators on hero and review images** - ✔️ semi-fixed by adding a media query for mobile devices (less than 992px) that overrides the BS class properties for 'align-items' and 'padding-top' so that prev/next indicators are more visible around the review photos. However, this styling then applies to the hero carousel indicators too which makes them less useable (though this is not too problematic for mobile devices, since the buttons are a bit cumbersome anyway).
 - **Review captions distort container height and alignment of carousel indicators** - ❌ not yet fixed. Carousel indicators are now separately styled to be located above the review captions, but the caption container adapts in height depending on the content size which is quite jarring for the user on mobile devices.
 - **No redirect page after submitting data for contact form** - ✅ redirect.html page created for user confirmation after submitting form data and links added to all contact forms (with button to return to the Home page).
+- **University image on homepage stretched on mobile devices** - ✅ fixed by deleting the CSS media query mistake for .image-sizing up to max-width 1525px.
 
 ---
 
