@@ -6,13 +6,12 @@ body {
 }
 
 h1,
-h2,
-h3 {
+h2 {
 	font-family: "Alegreya Sans SC", sans-serif;
 }
 
-h4,
-h5 {
+h3,
+h4 {
 	font-family: "Raleway", sans-serif;
 }
 
@@ -74,7 +73,7 @@ button[type="button"] {
 
 /*hero carousel*/
 
-#hero-image-controls h2 {
+#hero-image-controls h1 {
 	text-transform: uppercase;
 	letter-spacing: 5px;
 	color: rgb(255, 113, 91);
@@ -98,8 +97,7 @@ button[type="button"] {
 	margin: 0;
 }
 
-#company-summary h2,
-h3 {
+#company-summary h2 {
 	text-transform: uppercase;
 	letter-spacing: 5px;
 }
@@ -122,8 +120,8 @@ h3 {
 	margin: 15px 15%;
 }
 
-#left-box h3,
-h4 {
+#left-box h2,
+h3 {
 	padding: 10px;
 }
 
@@ -153,7 +151,7 @@ h4 {
 	padding: 2rem 0;
 }
 
-.summit-person-lg h5 {
+.summit-person-lg h3 {
 	text-align: center;
 }
 
@@ -292,14 +290,14 @@ footer {
 		font-size: 1.5rem;
 	}
 
-	#hero-image-controls h2 {
+	#hero-image-controls h1 {
 		font-size: 6rem;
 		width: 45%;
 	}
 }
 
 @media screen and (max-width: 2000px) {
-	#hero-image-controls h2 {
+	#hero-image-controls h1 {
 		font-size: 5rem;
 		width: 45%;
 	}
@@ -311,7 +309,7 @@ footer {
 }
 
 @media screen and (max-width: 1525px) {
-	#hero-image-controls h2 {
+	#hero-image-controls h1 {
 		font-size: 4rem;
 		width: 45%;
 	}
@@ -323,7 +321,7 @@ footer {
 }
 
 @media screen and (max-width: 1400px) {
-	#hero-image-controls h2 {
+	#hero-image-controls h1 {
 		font-size: 3rem;
 	}
 }
@@ -341,7 +339,7 @@ footer {
 		padding-top: 100px !important;
 	}
 
-	#hero-image-controls h2 {
+	#hero-image-controls h1 {
 		font-size: 2rem;
 	}
 
@@ -388,7 +386,7 @@ footer {
 		margin: auto;
 	}
 
-	.review-caption h5 {
+	.review-caption h3 {
 		margin: auto;
 		color: #000;
 		text-align: center;
@@ -452,13 +450,13 @@ footer {
 }
 
 @media screen and (max-width: 480px) {
-	#hero-image-controls h2 {
+	#hero-image-controls h1 {
 		font-size: 0.9rem;
 	}
 }
 
 @media screen and (max-width: 320px) {
-	#hero-image-controls h2 {
+	#hero-image-controls h1 {
 		font-size: 0.5rem;
 		padding: 1rem;
 	}
