@@ -204,6 +204,7 @@ The pages of the website are as follows:
 | Source | Location | Notes |
 | --- | --- | --- |
 | [Markdown Builder](https://traveltimn.github.io/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
+| [Prettier.io](https://prettier.io/) | .html and .css pages | tool to help beautify code |
 
 ### Content
 
