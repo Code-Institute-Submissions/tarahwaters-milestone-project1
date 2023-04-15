@@ -45,10 +45,10 @@ Sample HTML code validation documentation (tables are extremely helpful!):
 
 | Page | W3C URL | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftarahwaters.github.io%2Fmilestone-project1%2Findex.html) | ![screenshot](documentation/html-validation-home.png) | Pass: No Errors |
-| About | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftarahwaters.github.io%2Fmilestone-project1%2Fabout.html) | ![screenshot](documentation/html-validation-contact.png) | Pass: No Errors |
-| Contact | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftarahwaters.github.io%2Fmilestone-project1%2Fcontact.html) | ![screenshot](documentation/html-validation-quiz.png) | Pass: No Errors |
-| Redirect (confirmation) | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftarahwaters.github.io%2Fmilestone-project1%2Fredirect.html) | ![screenshot](documentation/html-validation-add-blog.png) | Pass: No Errors |
+| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftarahwaters.github.io%2Fmilestone-project1%2Findex.html) | ![screenshot](documentation/testing/validation-html-home.jpg) | Pass: No Errors |
+| About | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftarahwaters.github.io%2Fmilestone-project1%2Fabout.html) | ![screenshot](documentation/testing/validation-html-about.jpg) | Pass: No Errors |
+| Contact | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftarahwaters.github.io%2Fmilestone-project1%2Fcontact.html) | ![screenshot](documentation/testing/validation-html-contact.jpg) | Pass: No Errors |
+| Redirect (confirmation) | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftarahwaters.github.io%2Fmilestone-project1%2Fredirect.html) | ![screenshot](documentation/testing/validation-html-redirect.jpg) | Pass: No Errors |
 
 ### CSS
 
