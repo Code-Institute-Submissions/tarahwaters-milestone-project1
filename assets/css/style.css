@@ -331,12 +331,6 @@ footer {
 	}
 }
 
-@media screen and (max-width: 1400px) {
-	#hero-image-controls h1 {
-		font-size: 3rem;
-	}
-}
-
 @media screen and (max-width: 992px) {
 	.carousel {
 		width: 100%;
