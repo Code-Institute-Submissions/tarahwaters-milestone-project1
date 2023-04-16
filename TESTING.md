@@ -12,7 +12,7 @@ In this section I will be providing evidence to show that:
 
 ## Code Validation
 
-I will use this space to discuss code validation for any of my own code files (where applicable).
+I will use this space to discuss code validation of my code files (where applicable).
 I will not validate external libraries/frameworks, such as imported Bootstrap, Materialize, Font Awesome, etc.
 
 ### HTML
