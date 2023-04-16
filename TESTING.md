@@ -120,16 +120,18 @@ from the respective feature.
 
 | User Story | Screenshot |
 | --- | --- |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature01.png) |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature02.png) |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature03.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature04.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature05.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature06.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature07.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature08.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature09.png) |
-| repeat for all remaining user stories | x |
+| As a new site user, I would like to find out more about the services offered. | ![screenshot](documentation/testing/user-story-company-summary.jpg) |
+| As a user I want to find this information easily, without too many clicks needed. | ![screenshot](documentation/testing/user-story-homepage.jpg) |
+| As a user I want to know the experience level of the consulting team and their backgrounds.| [screenshot](documentation/testing/user-story-team-details.jpg) |
+| As a user I want to be reassured that the team are trustworthy, have a positive reputation and a track record of successful candidates. | ![screenshot](documentation/testing/user-story-team-details.jpg) |
+| As a user I want to get in touch with the company easily and securely, without needing to commit or pay anything upfront. | ![screenshot](documentation/testing/user-story-contact-form.jpg) |
+| As a user I want to be able to find the company contact details and social links easily. | ![screenshot](documentation/testing/user-story-social-links.jpg)  ![screenshot](documentation/testing/user-story-contact-menu.jpg) |
+| As a user I want reassurance that my enquiry will be answered quickly and the process is straight-forward. | ![screenshot](documentation/feature06.png) |
+| As a user I want to the option of opting in / out of receiving newsletters and advice by email when submitting my details. | ![screenshot](documentation/feature07.png) |
+| As a user I want to view this information smoothly on preferably either a mobile device or tablet, with the option of also a desktop. | ![screenshot](documentation/feature08.png) |
+| As a site owner I want users to find out about our services and team | ![screenshot](documentation/feature09.png) |
+| As a site owner I want users to submit their contact details and arrange schedule a meeting with us | x |
+| As a site owner I want users to know the positive success we have had with other clients and the process involved when working with us | x |
 
 ## Bugs
 
