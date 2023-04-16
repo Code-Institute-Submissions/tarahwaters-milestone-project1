@@ -10,7 +10,7 @@ The purpose of the website is to attract prospective MBA and Masters students se
 
 ## Showcase
 
-![Am I Responsive?](/documentation/ "Am I Responsive? Website Mockup")
+![Am I Responsive?](/documentation/readme/am-i-responsive-summit-careers.png "Am I Responsive? Website Mockup")
 
 The **Am I Responsive?** link can be found here - [Am I Responsive?](https://ui.dev/amiresponsive?url=https://tarahwaters.github.io/milestone-project1/)
 
