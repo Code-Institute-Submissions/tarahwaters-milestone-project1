@@ -56,11 +56,9 @@ The following popular browsers were tested:
 | Chrome | ![screenshot](documentation/testing/compatibility-chrome-home.png) | Works as expected |
 | Firefox | ![screenshot](documentation/testing/compatibility-firefox-home.png) | Works as expected |
 | Edge | ![screenshot](documentation/testing/compatibility-edge-home.png) | Works as expected |
-| Safari | ![screenshot](documentation/browser-safari.png) | Minor CSS differences |
-| Brave | ![screenshot](documentation/browser-brave.png) | Works as expected |
-| Opera | ![screenshot](documentation/browser-opera.png) | Minor differences |
-| Internet Explorer | ![screenshot](documentation/browser-iex.png) | Does not work as expected |
-| x | x | repeat for any other tested browsers |
+| Safari | ![screenshot](documentation/browser-safari.png) |  |
+| Brave | ![screenshot](documentation/testing/compatibility-brave-home.png) | Works as expected |
+| Opera | ![screenshot](documentation/testing/compatibility-opera-home.png) | Works as expected |
 
 ## Responsiveness
 
