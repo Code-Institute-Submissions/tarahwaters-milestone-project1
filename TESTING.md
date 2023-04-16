@@ -66,14 +66,14 @@ I have tested my deployed project on multiple devices to check for responsivenes
 
 | Device | Screenshot | Notes |
 | --- | --- | --- |
-| Mobile (DevTools) | ![screenshot](documentation/responsive-mobile.png) | Works as expected |
-| Tablet (DevTools) | ![screenshot](documentation/responsive-tablet.png) | Works as expected |
-| Desktop | ![screenshot](documentation/responsive-desktop.png) | Works as expected |
-| XL Monitor | ![screenshot](documentation/responsive-xl.png) | Scaling starts to have minor issues |
-| 4K Monitor | ![screenshot](documentation/responsive-4k.png) | Noticeable scaling issues |
-| Google Pixel 7 Pro | ![screenshot](documentation/responsive-pixel.png) | Works as expected |
-| iPhone 14 | ![screenshot](documentation/responsive-iphone.png) | Works as expected |
-| x | x | repeat for any other tested sizes |
+| **Small Mobile** 320x734 (DevTools) | ![screenshot](documentation/testing/responsive-mob-small-320px.png) | Works as expected |
+| **Medium Mobile** 375x374 (iPhone SE using DevTools) | ![screenshot](documentation/testing/responsive-mob-iphoneSE.png) | Works as expected |
+| **Large Mobile** 412x915 (Samsung s20 Ultra) | ![screenshot](documentation/testing/responsive-mob-samsung-s20-ultra.png) | Works as expected |
+| **Tablet** 786x734 | ![screenshot](documentation/testing/responsive-tablet-768px.png) | Scaling starts to have minor issues |
+| **Laptop** 1024x734 | ![screenshot](documentation/testing/responsive-laptop-1024px.png) | Works as expected |
+| **Large Laptop** 1440x734 | ![screenshot](documentation/testing/responsive-laptop-lg-1440px.png) | Works as expected |
+| **Desktop** 1920x1080 | ![screenshot](documentation/testing/responsive-desktop-1920px.png) | Works as expected |
+| **4K Monitor** 2560x1506 | ![screenshot](documentation/testing/responsive-4k-2560px.png) | Works as expected |
 
 ## Lighthouse Audit
 
