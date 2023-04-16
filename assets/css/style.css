@@ -329,10 +329,6 @@ footer {
 		padding: 10rem;
 		height: 500px;
 	}
-
-	.image-sizing {
-		height: -webkit-fill-available;
-	}
 }
 
 @media screen and (max-width: 1400px) {
