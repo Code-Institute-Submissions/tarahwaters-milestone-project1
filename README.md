@@ -10,9 +10,11 @@ The purpose of the website is to attract prospective MBA and Masters students se
 
 ## Showcase
 
-A deployed link to the live website can be found here (link)
+![Am I Responsive?](/documentation/ "Am I Responsive? Website Mockup")
 
-(image of website mockup here)
+The **Am I Responsive?** link can be found here - [Am I Responsive?](https://ui.dev/amiresponsive?url=https://tarahwaters.github.io/milestone-project1/)
+
+A **deployed link** to the live website can be found here [Summit Careers MS1 Project live site](https://tarahwaters.github.io/milestone-project1/)
 
 ---
 
