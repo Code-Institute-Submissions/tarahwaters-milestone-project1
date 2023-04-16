@@ -53,8 +53,8 @@ The following popular browsers were tested:
 
 | Browser | Screenshot | Notes |
 | --- | --- | --- |
-| Chrome | ![screenshot](documentation/browser-chrome.png) | Works as expected |
-| Firefox | ![screenshot](documentation/browser-firefox.png) | Works as expected |
+| Chrome | ![screenshot](documentation/testing/compatibility-chrome-home.png) | Works as expected |
+| Firefox | ![screenshot](documentation/testing/compatibility-firefox-home.png) | Works as expected |
 | Edge | ![screenshot](documentation/browser-edge.png) | Works as expected |
 | Safari | ![screenshot](documentation/browser-safari.png) | Minor CSS differences |
 | Brave | ![screenshot](documentation/browser-brave.png) | Works as expected |
