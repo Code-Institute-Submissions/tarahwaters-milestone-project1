@@ -297,7 +297,7 @@ A tutorial on how to do that can be found [here](https://www.gitpod.io/docs/conf
 
 ## Credits:
 
-- [Toto Kotaro Tanaka - former CI Student github repository](https://github.com/Toto-Kotaro-Tanaka/ms1-school-of-english)
+- [Toto Kotaro Tanaka - former CI Student github repository](https://github.com/Toto-Kotaro-Tanaka/ms1-school-of-english) - used feedback section code as a template for my Review section on the homepage (credit labelled in html)
 - [Toto Kotaro Tanaka MS1 live site](https://toto-kotaro-tanaka.github.io/ms1-school-of-english/index.html)
 - [jtuck15 - former CI student github repository](https://github.com/Code-Institute-Submissions/jtuck15-milestone-project-1)
 - [jtuck15 MS1 live site](https://jtuck15.github.io/milestone-project-1/index.html)
