@@ -66,11 +66,6 @@ Taking the exisiting website and its functionality, but attempting to **improve 
 
 A **business-to-consumer (B2C)** audience is targeted so the content and visual layout needs to be simple, clear and engaging, while still keeping in line with the minimalist and modern feel of the original site.
 
-A **Chrome DevTools Lighthouse** audit for the current website shows a **poor performance rating of 45%** which could be improved by some of the following measures:
-
-- Reduce unused JavaScript and CSS to improve page load speed by **focusing on basic functionality** without the excessive features
-- Ensuring the **visibility of text during webfront loading** by temporarily showing a system font or preloading fonts to increase loading speed (if still applicable)
-
 ## Trade Offs
 
 The table below shows the features that should be implemented to make an appealing and functional website for users. Due to time constraints and my current skill level, some of these features are not implemented at this stage.
