@@ -70,16 +70,21 @@ A **business-to-consumer (B2C)** audience is targeted so the content and visual 
 
 The table below shows the features that should be implemented to make an appealing and functional website for users. Due to time constraints and my current skill level, some of these features are not implemented at this stage.
 
-| Opportunity                                                | Importance | Viability / Feasibility |
-| -------------------------------------------------------- | :--------: | :---------------------: |
-| Form to submit details                                     |     5      |            5            |
-| Include a sign up to newsletter option in contact form     |     4      |            5            |
-| Reviews                                                    |     5      |            5            |
-| Team member details                                        |     5      |            5            |
-| Study Abroad page to detail process of service             |     4      |            4            |
-| Schedule a call calendar button [X]                        |     3      |            2            |
-| Option to contact via WhatsApp [X]                         |     3      |            2            |
-| Blog post page [X]                                         |     3      |            1            |
+[X] indicates opportunities that were considered at the planning stage but were deemed not viable/feasible for this project sprint.
+Y / N indicates a Yes / No as to whether each opportunity was acheived and implemented at this stage.
+
+| Opportunity                                                | Importance | Viability / Feasibility | Outcome |
+| ---------------------------------------------------------- | :--------: | :---------------------: | :------:|
+| Form to submit details                                     |     5      |            5            |    Y    |
+| Include a contact form on each page                        |     5      |            5            |    Y    |
+| Include a sign up to newsletter option in contact form     |     4      |            5            |    N    |
+| Contact page                                               |     5      |            5            |    Y    |
+| Reviews                                                    |     5      |            5            |    Y    |
+| Team member details (about page)                           |     5      |            5            |    Y    |
+| Study Abroad page to detail process of service             |     4      |            4            |    N    |
+| Schedule a call calendar button [X]                        |     3      |            2            |    N    |
+| Option to contact via WhatsApp [X]                         |     3      |            2            |    N    |
+| Blog post page [X]                                         |     3      |            1            |    N    |
 
 ## Scope
 
