@@ -81,14 +81,14 @@ I have tested my deployed project using the Lighthouse Audit tool to check for a
 
 | Page | Size | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Home | Mobile | ![screenshot](documentation/testing/lighthouse-mob-home.jpg) | Some minor warnings |
-| Home | Desktop | ![screenshot](documentation/testing/lighthouse-desktop-home.jpg) | Few warnings |
-| About | Mobile | ![screenshot](documentation/testing/lighthouse-mob-about.jpg) | Some minor warnings |
-| About | Desktop | ![screenshot](documentation/testing/lighthouse-desktop-about.jpg) | Few warnings |
-| Contact | Mobile | ![screenshot](documentation/testing/lighthouse-mob-contact.jpg) | Slow response time due to large images |
-| Contact | Desktop | ![screenshot](documentation/testing/lighthouse-desktop-contact.jpg) | Slow response time due to large images |
-| Redirect | Mobile |  ![screenshot](documentation/testing/lighthouse-mob-redirect.jpg) | repeat for any other tested pages/sizes |
-| Redirect | Desktop |  ![screenshot](documentation/testing/lighthouse-desktop-redirect.jpg) | repeat for any other tested pages/sizes |
+| Home | Mobile | ![screenshot](documentation/testing/lighthouse-mob-home.jpg) | Some warnings for performance due to sizing of images but also some external code errors that could not be helped |
+| Home | Desktop | ![screenshot](documentation/testing/lighthouse-desktop-home.jpg) | Some warnings for performance due to sizing of images but also some external code errors that could not be helped |
+| About | Mobile | ![screenshot](documentation/testing/lighthouse-mob-about.jpg) | Some warnings for performance due to sizing of images but also some external code errors that could not be helped |
+| About | Desktop | ![screenshot](documentation/testing/lighthouse-desktop-about.jpg) | Good scores |
+| Contact | Mobile | ![screenshot](documentation/testing/lighthouse-mob-contact.jpg) | Good scores |
+| Contact | Desktop | ![screenshot](documentation/testing/lighthouse-desktop-contact.jpg) | Some warnings for performance due to sizing of images but also some external code errors that could not be helped |
+| Redirect | Mobile |  ![screenshot](documentation/testing/lighthouse-mob-redirect.jpg) | Some warnings for performance due to sizing of images but also some external code errors that could not be helped |
+| Redirect | Desktop |  ![screenshot](documentation/testing/lighthouse-desktop-redirect.jpg) | Some warnings for performance due to sizing of images but also some external code errors that could not be helped |
 
 ## User Story Testing
 
