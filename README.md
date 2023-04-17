@@ -165,31 +165,66 @@ The pages of the website are as follows:
 
 ### Existing Features
 
-- **Title for feature #1**
+- **Feature #1 Nav bar**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - The nav bar is clearly displayed at the top of each page and contains the logo / brand name (which is also a link to the Home page) and navigation links to each page of the website for easy access.
 
 ![screenshot](documentation/feature01.png)
 
-- **Title for feature #2**
+- **Feature #2 Nav bar mobile toggler**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - The mobile nav bar toggler, accessible on smaller mobile devices, collapses the navbar into a simple menu button that when clicked can open a list of the pages of the website. This allows for a cleaner UX design which takes up less space, but provides the user with the necessary navigation options. Clicking the icon opens the menu, and clicking again can close the menu.
 
 ![screenshot](documentation/feature02.png)
 
-- **Title for feature #3**
+- **Feature #3 Hero image carousel with cover text**
 
     - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
 
 ![screenshot](documentation/feature03.png)
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+- **Feature #4 Footer icons**
 
-Repeat as necessary for as many features as your site contains.
+    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
 
-Hint: the more, the merrier!
+![screenshot](documentation/feature03.png)
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+- **Feature #5 Review carousel / large layout**
+
+    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+
+![screenshot](documentation/feature03.png)
+
+- **Feature #6 Contact form**
+
+    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+
+![screenshot](documentation/feature03.png)
+
+- **Feature #7 Redirected confirmation page**
+
+    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+
+![screenshot](documentation/feature03.png)
+
+- **Feature #8'we know what it takes' link to About page**
+
+    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+
+![screenshot](documentation/feature03.png)
+
+- **Feature #9 'Get in touch' button link to Contact form on same page'**
+
+    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+
+![screenshot](documentation/feature03.png)
+
+- **Feature #10 Team details with images and descriptions**
+
+    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+
+![screenshot](documentation/feature03.png)
+
 
 ### Future Features
 
