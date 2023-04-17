@@ -220,6 +220,12 @@ The pages of the website are as follows:
 
 ![screenshot](documentation/readme/features-about-page.png)
 
+- **Feature #10 Footer with social links**
+
+    - In the footer of each page there is the company logo and brand name (with a link to the homepage) and also social media link icons that have been styled with the Summit colour palette. These links potentially give the user access to the social media pages of the company where they can see more content from the company.
+
+![screenshot](documentation/readme/features-footer-social-links.png)
+
 
 ### Future Features
 
