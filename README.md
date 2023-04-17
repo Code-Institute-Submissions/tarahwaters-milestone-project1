@@ -282,6 +282,7 @@ Not all the intended features were implemented at this stage of the project due 
 - [jtuck15 - former CI student github repository](https://github.com/Code-Institute-Submissions/jtuck15-milestone-project-1)
 - [jtuck15 MS1 live site](https://jtuck15.github.io/milestone-project-1/index.html)
 - Code Institute Tutorials
+- [Tim Nelson's Markdown Builder](https://traveltimn.github.io/markdown-builder/) to help create the README and TESTING.md files
 
 
 ### Content
@@ -340,6 +341,10 @@ Tutor support to fix hero image alignment problem - **@Paul Treggiden** identifi
     - [@Paul Treggiden](https://app.slack.com/client/T0L30B202/D04UYMV6WBG/rimeto_profile/U043S9PT5E1) support with coding advice and encouragement
     - [Stephen Seagrave](https://github.com/nemixu) - former CI student and tutor. MS1 guidance and access to Stephen's Milestone1 repo which was useful for inpsiration and structure when planning
 
+## References
 
+- Beautify code with [prettier.io](https://prettier.io/)
+- Compress images with [tinypng] (https://tinypng.com/)
+- Convert and resize images to new gen format WEBP using [redketchup](https://redketchup.io/)
 
 
