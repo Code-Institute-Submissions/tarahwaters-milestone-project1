@@ -140,22 +140,20 @@ I have tested my deployed project using the Lighthouse Audit tool to check for a
 
     - Didn't have time to adjust the media query to fix this but easily fixed if I adjust the font-size and styling of the cover-text box.
 
-- For PP3, when using a helper `clear()` function, any text above the height of the terminal does not clear, and remains when you scroll up.
+- The Contact and Redirect page does not fill the page for medium to large devices.
 
-    ![screenshot](documentation/unfixed-bug02.png)
+    ![screenshot](documentation/testing/unfixed-bug-contactpage-height.png)
+    ![screenshot](documentation/testing/unfixed-bug-redirectpage-height.png)
 
-    - Attempted fix: I tried to adjust the terminal size, but it only resizes the actual terminal, not the allowable area for text.
+    - Need to fix the height of the middle sections relative to the header, footer and heading components but struggled to do this in time. I haven't given specific heights to each section to know how much coverage they have across a page.
 
 - When validating HTML with a semantic `section` element, the validator warns about lacking a header `h2-h6`. This is acceptable.
 
-    ![screenshot](documentation/unfixed-bug03.png)
+    - Attempted fix: made sure most headers increased sequentially but there are some that would have affected my original styling too much to fix.
 
-    - Attempted fix: this is a known warning and acceptable, and my section doesn't require a header since it's dynamically added via JS.
+- From 1000-1450px the hero cover text size is smaller then suddenly jumps to being large again.
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+    ![screenshot](documentation/testing/unfixed-bug-covertext-1440px.png)
+     ![screenshot](documentation/testing/unfixed-bug-covertext-1451px.png)
 
-If you legitimately cannot find any unfixed bugs or warnings, then use the following sentence:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-There are no remaining bugs that I am aware of.
+    - I suspect this is a media query issue again but didn't have chance to fix it.
