@@ -253,9 +253,7 @@ Not all the intended features were implemented at this stage of the project due 
 - **CSS**
 - **Bootstrap**
 
-
 ---
-
 
 ## Testing:
 
@@ -279,10 +277,12 @@ Not all the intended features were implemented at this stage of the project due 
 
 ## Credits:
 
-| Source | Location | Notes |
-| --- | --- | --- |
-| [Markdown Builder](https://traveltimn.github.io/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
-| [Prettier.io](https://prettier.io/) | .html and .css pages | tool to help beautify code |
+- [Toto Kotaro Tanaka - former CI Student github repository](https://github.com/Toto-Kotaro-Tanaka/ms1-school-of-english)
+- [Toto Kotaro Tanaka MS1 live site](https://toto-kotaro-tanaka.github.io/ms1-school-of-english/index.html)
+- [jtuck15 - former CI student github repository](https://github.com/Code-Institute-Submissions/jtuck15-milestone-project-1)
+- [jtuck15 MS1 live site](https://jtuck15.github.io/milestone-project-1/index.html)
+- Code Institute Tutorials
+
 
 ### Content
 
@@ -333,18 +333,13 @@ Tutor support to fix hero image alignment problem - **@Paul Treggiden** identifi
 ### Acknowledgements
 
 - Code Institute Tutor support
-- Cohort Tutor
-- Mentor
-- Cohort peers and Slack community
+- Cohort Facilitator - [Iris Smok](https://ie.linkedin.com/in/irissmok)
+- Mentor for support throughout the project
+- Cohort peers and Slack community, especially:
+    - [@Nathan Parry_4P_cohort_lead](https://app.slack.com/client/T0L30B202/D04ULFN551P/rimeto_profile/U04EX23NTND) support with coding advice and encouragement, help with README.md structure, ideas and useful websites  
+    - [@Paul Treggiden](https://app.slack.com/client/T0L30B202/D04UYMV6WBG/rimeto_profile/U043S9PT5E1) support with coding advice and encouragement
+    - [Stephen Seagrave](https://github.com/nemixu) - former CI student and tutor. MS1 guidance and access to Stephen's Milestone1 repo which was useful for inpsiration and structure when planning
 
-### References
-- [Toto Kotaro Tanaka - former CI Student github repository](https://github.com/Toto-Kotaro-Tanaka/ms1-school-of-english)
-- [Toto Kotaro Tanaka MS1 live site](https://toto-kotaro-tanaka.github.io/ms1-school-of-english/index.html)
-- [jtuck15 - former CI student github repository](https://github.com/Code-Institute-Submissions/jtuck15-milestone-project-1)
--	[jtuck15 MS1 live site](https://jtuck15.github.io/milestone-project-1/index.html)
-- [@Nathan Parry_4P_cohort_lead](https://app.slack.com/client/T0L30B202/D04ULFN551P/rimeto_profile/U04EX23NTND) support with coding advice and encouragement, help with README.md structure, ideas and useful websites  
-- [@Paul Treggiden](https://app.slack.com/client/T0L30B202/D04UYMV6WBG/rimeto_profile/U043S9PT5E1) support with coding advice and encouragement
-- [Stephen Seagrave](https://github.com/nemixu) - former CI student and tutor. MS1 guidance and access to Stephen's Milestone1 repo which was useful for inpsiration and structure when planning
-- [Iris Smok](https://ie.linkedin.com/in/irissmok) - Cohort facilitator
-- First tried a navbar - from [codepen.io](https://codepen.io/johndoenma/pen/VXpaVM) Simple Header with Inline Image Logo and HTML Text
+
+
 
