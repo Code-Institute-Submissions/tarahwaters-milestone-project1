@@ -72,6 +72,10 @@ The following popular browsers were tested:
 | **Hero Image Carousel** | Images will automatically scroll across but the user can also click and swipe to the next image | Clicked and swiped the images on the carousel | Carousel changes to the next image in the sequence |
 | **'We know what it takes' Link to About Page** | Highlighted text in company-summary section should open the About page | Clicked the 'we know what it takes' text | About page opened when link clicked |
 | **'Get in touch' Button Link to Contact Form** | User will be taken to the contact form at the bottom of the page when the button is clicked | Cliked the 'Get in touch' button | Page scrolls down to the contact form or 'Get in touch' section |
+| **Form Submit Button** | Form submits and redirects to confirmation page (redirect.html) when required data has been added and submit button is clicked| Clicked the submit button on the form | The form is successfully submitted on click and the user is redirected to a confirmation page |
+| **Home Button on Redirect Page** | When clicked the Home page will open | Clicked the Home button on the Redirect page | Home page opened when clicked |
+| **Review Carousel Previous / Next image icons** | When clicked the review image and caption will change to the previous / next person | Clicked both the previous and next icons | Review image and caption changed to different person in the carousel |
+| **Social Link Icons** | Social link icons open relevant websites in a new tab when clicked | Clicked each social link icon | All links opened a new tabl and to the correct site |
 
 
 ## Responsiveness
