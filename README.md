@@ -169,55 +169,56 @@ The pages of the website are as follows:
 
     - The nav bar is clearly displayed at the top of each page and contains the logo / brand name (which is also a link to the Home page) and navigation links to each page of the website for easy access.
 
-![screenshot](documentation/feature01.png)
+![screenshot](documentation/readme/features-navbar.png)
 
 - **Feature #2 Nav bar mobile toggler**
 
     - The mobile nav bar toggler, accessible on smaller mobile devices, collapses the navbar into a simple menu button that when clicked can open a list of the pages of the website. This allows for a cleaner UX design which takes up less space, but provides the user with the necessary navigation options. Clicking the icon opens the menu, and clicking again can close the menu.
 
-![screenshot](documentation/feature02.png)
+![screenshot](documentation/readme/features-mob-navbar.png)
+![screenshot](documentation/readme/features-mob-menu.png)
 
 - **Feature #3 Hero image carousel with cover text**
 
     - Inpsiring graduate student and university images are displayed in a carousel that is the first section a user will see on the home page. The cover text contains an engaging and strong description of the company's success and service offered to appeal to the user straight away. The images scroll automatically but the user can also access the controls by clicking on the next/previous icons.
 
-![screenshot](documentation/feature03.png)
+![screenshot](documentation/readme/features-hero-carousel.png)
 
-- **Feature #4 Review carousel / large layout**
+- **Feature #4 Review carousel**
 
     - A carousel with images and captions of previous clients' positive reviews is displayed on mobile devices, with previous/next control indicators to scroll through each review. This layout was made for mobiles so that all reviews are still accessible but they do not take up a huge amount of screen space. On larger screens, all reviews can be seen on a single page.
 
-![screenshot](documentation/feature03.png)
+![screenshot](documentation/readme/features-review-carousel.png)
 
 - **Feature #5 Contact form**
 
     - As per the client's request, a contact form is accessible on each page as well as on the Contact page. This form requires certain details from the user in order for successful submission, and will give instant feedback if they have entered any invalid details by mistake.
 
-![screenshot](documentation/feature03.png)
+![screenshot](documentation/readme/features-contact-form.png)
 
 - **Feature #6 Redirected confirmation page**
 
     - Once details have been submitted successfully using the submit button, the user is redirected to a confirmation page where they are informed that their details have been submitted and will be processed within 48 hours. This gives the user reassurance and feedback after submitting the form.
 
-![screenshot](documentation/feature03.png)
+![screenshot](documentation/readme/features-redirect-page.png)
 
 - **Feature #7'we know what it takes' link to About page**
 
     - Similar to the original website, the phrase 'We know what it takes' is a key branding message and in this instance, if the user wants to know more about the company team, they can click the link to be directed to the About page.
 
-![screenshot](documentation/feature03.png)
+![screenshot](documentation/readme/features-about-team-link.png)
 
 - **Feature #8 'Get in touch' button link to Contact form on same page**
 
     - When the user clicks a 'Get in touch' button, they are instantly taken to the bottom of the page where they can submit their details and arrange a meeting with the Summit consulting team. The client was particularly happy with this feature as it increases the opportunities users have to sign up for their services and also means less navigation to get there.
 
-![screenshot](documentation/feature03.png)
+![screenshot](documentation/readme/features-get-in-touch-button.png)
 
 - **Feature #9 Team details with images and descriptions**
 
     - A page with details and images of each member of the Summit consulting team and advisory board are clearly displayed here.
 
-![screenshot](documentation/feature03.png)
+![screenshot](documentation/readme/features-about-page.png)
 
 
 ### Future Features
