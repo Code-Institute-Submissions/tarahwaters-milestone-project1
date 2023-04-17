@@ -64,11 +64,14 @@ The following popular browsers were tested:
 
 | Feature | Expect | Action | Result |
 | --- | --- | --- | --- |
-| **Home Navbar Button** | When clicked the home page will open | Clicked Home on the Nav bar | Home page opened when clicked |
-| **About Navbar Button** | When clicked the about page will open | Clicked Home on the Nav bar | Home page opened when clicked |
-| **Contact Navbar Button** | When clicked the contact page will open | Clicked Home on the Nav bar | Home page opened when clicked |
-| **Summit logo / Brand name on Navbar** | When clicked the home page will open | Clicked the logo or brand name on the Nav bar | Home page opened when clicked |
+| **Home Navbar Button** | When clicked the Home page will open | Clicked Home on the Nav bar | Home page opened when clicked |
+| **About Navbar Button** | When clicked the About page will open | Clicked About on the Nav bar | About page opened when clicked |
+| **Contact Navbar Button** | When clicked the Contact page will open | Clicked Contact on the Nav bar | Contact page opened when clicked |
+| **Summit logo / Brand name on Navbar** | When clicked the Home page will open | Clicked the logo or brand name on the Nav bar | Home page opened when clicked |
 | **Menu Item Button** (screens less than 1400px width) | When clicked the menu item list will open and drop down | Clicked the menu button | Menu list opened |
+| **Hero Image Carousel** | Images will automatically scroll across but the user can also click and swipe to the next image | Clicked and swiped the images on the carousel | Carousel changes to the next image in the sequence |
+| **'We know what it takes' Link to About Page** | Highlighted text in company-summary section should open the About page | Clicked the 'we know what it takes' text | About page opened when link clicked |
+| **'Get in touch' Button Link to Contact Form** | User will be taken to the contact form at the bottom of the page when the button is clicked | Cliked the 'Get in touch' button | Page scrolls down to the contact form or 'Get in touch' section |
 
 
 ## Responsiveness
