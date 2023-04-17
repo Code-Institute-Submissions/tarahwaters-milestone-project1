@@ -148,8 +148,13 @@ Then an alternative was tested after DevTools suggested a more user friendly con
 
 ---
 
-## Wireframes and Mockups:
+## Wireframes:
+
+These were the initial wireframes created for the project during the planning stage:
+
 ![Mobile Device Wireframes for all pages](/documentation/readme/mobile-device-wireframe-allpages.png "Mobile device wireframes for all pages")
+![Large Device Wireframe for home page](/documentation/readme/large-screen-wireframe-home.png "Large device wireframe for home page")
+
 
 
 ------
