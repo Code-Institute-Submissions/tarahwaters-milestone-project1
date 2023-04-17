@@ -229,22 +229,21 @@ The pages of the website are as follows:
 
 ### Future Features
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+Not all the intended features were implemented at this stage of the project due to the following reasons:
+    - Viability
+    - Lack of knowledge / skills
+    - Limited time frame for release of the project
 
-Do you have additional ideas that you'd like to include on your project in the future?
-Fantastic! List them here!
-It's always great to have plans for future improvements!
-Consider adding any helpful links or notes to help remind you in the future, if you revisit the project in a couple years.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-- Title for future feature #1
-    - Any additional notes about this feature.
-- Title for future feature #2
-    - Any additional notes about this feature.
-- Title for future feature #3
-    - Any additional notes about this feature.
-
+- **Feature 1**
+    - Adding a newsletter option to the contact form page
+- **Feature 2**
+    - Including a blog page or access to newsletter updates from a blog page
+- **Feature 3**
+    - A WhatsApp link to send a message directly from the web
+- **Feature 4**
+    - Schedule a meeting directly via an interactive calendar function
+- **Feature 5**
+    - Redirect page automatically returns to the homepage with a countdown
 
 ---
 
