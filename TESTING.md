@@ -125,69 +125,7 @@ I have tested my deployed project using the Lighthouse Audit tool to check for a
 | As a site owner I want users to submit their contact details and arrange schedule a meeting with us. | ![screenshot](documentation/testing/user-story-get-in-touch.jpg) ![screenshot](documentation/testing/user-story-contact-form.jpg) | Contact form is accessible at the bottom of each page as per the client's specifications and the button 'Get in touch' will take the user straight to the form. |
 | As a site owner I want users to know the positive success we have had with other clients and the process involved when working with us | ![screenshot](documentation/testing/user-story-reviews.jpg) | The Review section of the Home page gives details of positive feedback from other clients, but the Study Abroad page was intended to outline the company's process in more detail (unable to achieve at this time, but a part of **Future Features**.)
 
-## Bugs
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-It's very important to document any bugs you've discovered while developing the project.
-Make sure to include any necessary steps you've implemented to fix the bug(s) as well.
-
-For JavaScript and Python applications, it's best to screenshot the errors to include them as well.
-
-**PRO TIP**: screenshots of bugs are extremely helpful, and go a long way!
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-- JS Uncaught ReferenceError: `foobar` is undefined/not defined
-
-    ![screenshot](documentation/bug01.png)
-
-    - To fix this, I _____________________.
-
-- JS `'let'` or `'const'` or `'template literal syntax'` or `'arrow function syntax (=>)'` is available in ES6 (use `'esversion: 11'`) or Mozilla JS extensions (use moz).
-
-    ![screenshot](documentation/bug02.png)
-
-    - To fix this, I _____________________.
-
-- Python `'ModuleNotFoundError'` when trying to import module from imported package
-
-    ![screenshot](documentation/bug03.png)
-
-    - To fix this, I _____________________.
-
-- Django `TemplateDoesNotExist` at /appname/path appname/template_name.html
-
-    ![screenshot](documentation/bug04.png)
-
-    - To fix this, I _____________________.
-
-- Python `E501 line too long` (93 > 79 characters)
-
-    ![screenshot](documentation/bug04.png)
-
-    - To fix this, I _____________________.
-
-**Fixed Bugs**
-
-All previously closed/fixed bugs can be tracked [here](https://github.com/tarahwaters/milestone-project1/issues?q=is%3Aissue+is%3Aclosed).
-
-| Bug | Status |
-| --- | --- |
-| [JS Uncaught ReferenceError: `foobar` is undefined/not defined](https://github.com/tarahwaters/milestone-project1/issues/1) | Closed |
-| [Python `'ModuleNotFoundError'` when trying to import module from imported package](https://github.com/tarahwaters/milestone-project1/issues/2) | Closed |
-| [Django `TemplateDoesNotExist` at /appname/path appname/template_name.html](https://github.com/tarahwaters/milestone-project1/issues/3) | Closed |
-
-**Open Issues**
-
-Any remaining open issues can be tracked [here](https://github.com/tarahwaters/milestone-project1/issues).
-
-| Bug | Status |
-| --- | --- |
-| [JS `'let'` or `'const'` or `'template literal syntax'` or `'arrow function syntax (=>)'` is available in ES6 (use `'esversion: 11'`) or Mozilla JS extensions (use moz).](https://github.com/tarahwaters/milestone-project1/issues/4) | Open |
-| [Python `E501 line too long` (93 > 79 characters)](https://github.com/tarahwaters/milestone-project1/issues/5) | Open |
-
-## Unfixed Bugs
+## Issues / Bugs
 
 - **Boostrap hero image carousel takes up too much space on large screens** - ✔️ semi-fixed by adjusting the viewport image height in a media query for large screens above 2000px.
 - **Horizontal and vertical extra spacing of the page on all devices (excessive margin at bottom and right sides of pages)** - ✅ horizontal spacing fixed by overriding BS gutter via .row class on all pages (credit to @Paul Treggiden for help with this), and vertical spacing fixed by maximising the height of the footer on all pages.
@@ -196,26 +134,11 @@ Any remaining open issues can be tracked [here](https://github.com/tarahwaters/m
 - **No redirect page after submitting data for contact form** - ✅ redirect.html page created for user confirmation after submitting form data and links added to all contact forms (with button to return to the Home page).
 - **University image on homepage stretched on mobile devices** - ✔️ semi-fixed by deleting the CSS media query mistake for .image-sizing up to max-width 1525px. This seemed to work until another bug arose, where there was white spacing under the image for 992px-1450px screen widths. The bug was not fixed, so instead the media query for max-width 992px (i.e. for the single column mobile layout to be activated) was change to 1450px. This means that the single column layout is triggered for larger devices, but at least the image is scaled properly.
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+- On devices between 480-600px, the hero image cover text is too large and spills out across the page.
 
-You will need to mention unfixed bugs and why they were not fixed.
-This section should include shortcomings of the frameworks or technologies used.
-Although time can be a big variable to consider, paucity of time and difficulty understanding
-implementation is not a valid reason to leave bugs unfixed.
+    ![screenshot](documentation/testing/unfixed-bug-responsive-hero.png)
 
-If you've identified any unfixed bugs, no matter how small, be sure to list them here.
-It's better to be honest and list them, because if it's not documented and an assessor finds the issue,
-they need to know whether or not you're aware of them as well, and why you've not corrected/fixed them.
-
-Some examples:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-- On devices smaller than 375px, the page starts to have `overflow-x` scrolling.
-
-    ![screenshot](documentation/unfixed-bug01.png)
-
-    - Attempted fix: I tried to add additional media queries to handle this, but things started becoming too small to read.
+    - Didn't have time to adjust the media query to fix this but easily fixed if I adjust the font-size and styling of the cover-text box.
 
 - For PP3, when using a helper `clear()` function, any text above the height of the terminal does not clear, and remains when you scroll up.
 
