@@ -60,6 +60,17 @@ The following popular browsers were tested:
 | Brave | ![screenshot](documentation/testing/compatibility-brave-home.png) | Works as expected |
 | Opera | ![screenshot](documentation/testing/compatibility-opera-home.png) | Works as expected |
 
+## Manual Testing
+
+| Feature | Expect | Action | Result |
+| --- | --- | --- | --- |
+| **Home Navbar Button** | When clicked the home page will open | Clicked Home on the Nav bar | Home page opened when clicked |
+| **About Navbar Button** | When clicked the about page will open | Clicked Home on the Nav bar | Home page opened when clicked |
+| **Contact Navbar Button** | When clicked the contact page will open | Clicked Home on the Nav bar | Home page opened when clicked |
+| **Summit logo / Brand name on Navbar** | When clicked the home page will open | Clicked the logo or brand name on the Nav bar | Home page opened when clicked |
+| **Menu Item Button** (screens less than 1400px width) | When clicked the menu item list will open and drop down | Clicked the menu button | Menu list opened |
+
+
 ## Responsiveness
 
 I have tested my deployed project on multiple devices to check for responsiveness issues.
