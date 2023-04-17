@@ -179,49 +179,43 @@ The pages of the website are as follows:
 
 - **Feature #3 Hero image carousel with cover text**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - Inpsiring graduate student and university images are displayed in a carousel that is the first section a user will see on the home page. The cover text contains an engaging and strong description of the company's success and service offered to appeal to the user straight away. The images scroll automatically but the user can also access the controls by clicking on the next/previous icons.
 
 ![screenshot](documentation/feature03.png)
 
-- **Feature #4 Footer icons**
+- **Feature #4 Review carousel / large layout**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
-
-![screenshot](documentation/feature03.png)
-
-- **Feature #5 Review carousel / large layout**
-
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - A carousel with images and captions of previous clients' positive reviews is displayed on mobile devices, with previous/next control indicators to scroll through each review. This layout was made for mobiles so that all reviews are still accessible but they do not take up a huge amount of screen space. On larger screens, all reviews can be seen on a single page.
 
 ![screenshot](documentation/feature03.png)
 
-- **Feature #6 Contact form**
+- **Feature #5 Contact form**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
-
-![screenshot](documentation/feature03.png)
-
-- **Feature #7 Redirected confirmation page**
-
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - As per the client's request, a contact form is accessible on each page as well as on the Contact page. This form requires certain details from the user in order for successful submission, and will give instant feedback if they have entered any invalid details by mistake.
 
 ![screenshot](documentation/feature03.png)
 
-- **Feature #8'we know what it takes' link to About page**
+- **Feature #6 Redirected confirmation page**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
-
-![screenshot](documentation/feature03.png)
-
-- **Feature #9 'Get in touch' button link to Contact form on same page'**
-
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - Once details have been submitted successfully using the submit button, the user is redirected to a confirmation page where they are informed that their details have been submitted and will be processed within 48 hours. This gives the user reassurance and feedback after submitting the form.
 
 ![screenshot](documentation/feature03.png)
 
-- **Feature #10 Team details with images and descriptions**
+- **Feature #7'we know what it takes' link to About page**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - Similar to the original website, the phrase 'We know what it takes' is a key branding message and in this instance, if the user wants to know more about the company team, they can click the link to be directed to the About page.
+
+![screenshot](documentation/feature03.png)
+
+- **Feature #8 'Get in touch' button link to Contact form on same page**
+
+    - When the user clicks a 'Get in touch' button, they are instantly taken to the bottom of the page where they can submit their details and arrange a meeting with the Summit consulting team. The client was particularly happy with this feature as it increases the opportunities users have to sign up for their services and also means less navigation to get there.
+
+![screenshot](documentation/feature03.png)
+
+- **Feature #9 Team details with images and descriptions**
+
+    - A page with details and images of each member of the Summit consulting team and advisory board are clearly displayed here.
 
 ![screenshot](documentation/feature03.png)
 
