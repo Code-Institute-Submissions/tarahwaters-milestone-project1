@@ -77,34 +77,18 @@ I have tested my deployed project on multiple devices to check for responsivenes
 
 ## Lighthouse Audit
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Use this space to discuss testing the live/deployed site's Lighthouse Audit reports.
-Avoid testing the local version (especially if developing in Gitpod), as this can have knock-on effects of performance.
-
-If you don't have Lighthouse in your Developer Tools,
-it can be added as an [extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk).
-
-Don't just test the home page (unless it's a single-page application).
-Make sure to test the Lighthouse Audit results for all of your pages.
-
-**IMPORTANT**: You must provide screenshots of the results, to "prove" that you've actually tested them.
-
-Sample Lighthouse testing documentation:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-I've tested my deployed project using the Lighthouse Audit tool to check for any major issues.
+I have tested my deployed project using the Lighthouse Audit tool to check for any major issues.
 
 | Page | Size | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Home | Mobile | ![screenshot](documentation/lighthouse-home-mobile.png) | Some minor warnings |
-| Home | Desktop | ![screenshot](documentation/lighthouse-home-desktop.png) | Few warnings |
-| About | Mobile | ![screenshot](documentation/lighthouse-about-mobile.png) | Some minor warnings |
-| About | Desktop | ![screenshot](documentation/lighthouse-about-desktop.png) | Few warnings |
-| Gallery | Mobile | ![screenshot](documentation/lighthouse-gallery-mobile.png) | Slow response time due to large images |
-| Gallery | Desktop | ![screenshot](documentation/lighthouse-gallery-desktop.png) | Slow response time due to large images |
-| x | x | x | repeat for any other tested pages/sizes |
+| Home | Mobile | ![screenshot](documentation/testing/lighthouse-mob-home.jpg) | Some minor warnings |
+| Home | Desktop | ![screenshot](documentation/testing/lighthouse-desktop-home.jpg) | Few warnings |
+| About | Mobile | ![screenshot](documentation/testing/lighthouse-mob-about.jpg) | Some minor warnings |
+| About | Desktop | ![screenshot](documentation/testing/lighthouse-desktop-about.jpg) | Few warnings |
+| Contact | Mobile | ![screenshot](documentation/testing/lighthouse-mob-contact.jpg) | Slow response time due to large images |
+| Contact | Desktop | ![screenshot](documentation/testing/lighthouse-desktop-contact.jpg) | Slow response time due to large images |
+| Redirect | Mobile |  ![screenshot](documentation/testing/lighthouse-mob-redirect.jpg) | repeat for any other tested pages/sizes |
+| Redirect | Desktop |  ![screenshot](documentation/testing/lighthouse-desktop-redirect.jpg) | repeat for any other tested pages/sizes |
 
 ## User Story Testing
 
